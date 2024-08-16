@@ -1,0 +1,537 @@
+Summary,Issue key,Issue id,Issue Type,Status,Priority,Resolution,Assignee,Created,Updated,Resolved
+Resources: Link migration not working for URL content,SAK-50335,67862,Bug,Resolved,Minor,Fixed,Vicent Alfonso,29-07-2024 06:06,30-07-2024 09:57,30-07-2024 09:57
+"LTI-Assignments: Add push notification when grading, so the SakaiGrader gets updated comments",SAK-50329,67856,Bug,Verified,Major,Fixed,Charles R Severance,25-07-2024 22:51,28-07-2024 19:52,26-07-2024 00:13
+Reset Pass instructions should be unescaped to allow for HTML,SAK-50328,67855,Bug,Resolved,Major,Fixed,Sam Ottenhoff,25-07-2024 13:36,26-07-2024 18:19,26-07-2024 18:19
+LTI Assignments cannot be graded unless SakaiGrader is used,SAK-50327,67854,Bug,Verified,Major,Fixed,Charles R Severance,25-07-2024 10:08,30-07-2024 19:05,30-07-2024 10:19
+Link migration not working for Peer Assignment instructions,SAK-50325,67852,Bug,Resolved,Major,Fixed,Vicent Alfonso,24-07-2024 09:15,30-07-2024 10:00,30-07-2024 09:59
+LTI-Assignments: console error when opening grading page for a group assignment: TypeError: Invalid protocol,SAK-50320,67847,Bug,Resolved,Major,Duplicate,Charles R Severance,22-07-2024 18:24,23-07-2024 17:38,23-07-2024 17:38
+Dashboard tool should be more explicit about flex layout,SAK-50319,67846,Bug,Closed,Major,Fixed,Adrian Fish,22-07-2024 13:18,30-07-2024 12:51,23-07-2024 10:24
+LTI description is out of date in /direct,SAK-50316,67843,Bug,Closed,Major,Fixed,Charles R Severance,21-07-2024 10:08,28-07-2024 09:58,21-07-2024 23:26
+LTI - Remove k1 / pre-k1 cruft from portlet-util,SAK-50313,67840,Bug,Verified,Minor,Fixed,Charles R Severance,20-07-2024 10:29,30-07-2024 18:39,20-07-2024 11:55
+Update Apache commons lang 3.15.0,SAK-50312,67839,Bug,Resolved,Major,Fixed,David Horwitz,20-07-2024 01:14,23-07-2024 10:11,23-07-2024 10:11
+toolTitles in portal head need to be escaped if using quotes,SAK-50310,67837,Bug,Closed,Major,Fixed,Sam Ottenhoff,19-07-2024 14:31,29-07-2024 18:29,23-07-2024 10:30
+SCORM: Error viewing results,SAK-50308,67835,Bug,Resolved,Critical,Fixed,Matthew Jones,18-07-2024 13:39,30-07-2024 12:29,30-07-2024 12:29
+Assignments: Moment is Broken in Grader,SAK-50306,67833,Bug,Verified,Major,Fixed,Adrian Fish,18-07-2024 07:40,24-07-2024 17:52,24-07-2024 09:01
+"In Conversations, Good Post and Reactions don't work on replies to a topic",SAK-50304,67831,Bug,Resolved,Major,Duplicate,Adrian Fish,17-07-2024 14:09,26-07-2024 11:44,18-07-2024 19:19
+Update UnboundID LDAP SDK for Java 7.0.1,SAK-50299,67826,Bug,Resolved,Major,Fixed,David Horwitz,16-07-2024 01:30,17-07-2024 09:15,16-07-2024 13:35
+LTI Tools set to open in a new window require you to click a button to open the new window,SAK-50298,67825,Bug,Closed,Major,Fixed,Andrea Schmidt,15-07-2024 15:48,31-07-2024 10:48,25-07-2024 13:09
+Test & Quizzes: Update calculated questions instructions,SAK-50294,67821,Bug,Verified,Major,Fixed,Manu Fuster,12-07-2024 08:37,29-07-2024 12:21,16-07-2024 13:48
+Update MariaDB/J 2.7.12,SAK-50293,67820,Bug,Resolved,Major,Fixed,David Horwitz,12-07-2024 05:25,15-07-2024 19:06,14-07-2024 15:43
+Update SpotBugs Maven Plugin 4.8.6.2 & license plugin 4.5,SAK-50292,67819,Bug,Resolved,Minor,Fixed,David Horwitz,12-07-2024 03:45,17-07-2024 09:12,14-07-2024 15:44
+TYPE is a reserved word on Oracle,SAK-50291,67818,Bug,Resolved,Major,Fixed,Jesus Maria Mendez Perez,12-07-2024 03:20,12-07-2024 05:30,12-07-2024 05:30
+Grader/Rubric: Removing rubric with adjusted scores not fully cleared,SAK-50290,67817,Bug,Closed,Major,Fixed,Sean Horner,10-07-2024 19:40,29-07-2024 18:34,16-07-2024 13:46
+Resources: Display Columns controls not hiding whole columns,SAK-50289,67816,Bug,Verified,Major,Fixed,Sean Horner,10-07-2024 13:08,17-07-2024 14:12,16-07-2024 13:45
+LTI: Pop-up when there are no tools available is oversized for the message displayed,SAK-50287,67814,Bug,Verified,Minor,Fixed,Charles R Severance,09-07-2024 19:39,12-07-2024 17:53,11-07-2024 18:27
+LTI: Cancel on pop-up picker console error: ReferenceError: doreload is not defined,SAK-50286,67813,Bug,Verified,Minor,Fixed,Charles R Severance,09-07-2024 19:01,12-07-2024 17:53,11-07-2024 17:43
+Lessons: Invalid character error when adding a pre-requisite ,SAK-50285,67812,Bug,Resolved,Major,Non-Issue,Core Team,09-07-2024 15:55,16-07-2024 21:11,11-07-2024 18:25
+Message-ID does not contain angle brackets,SAK-50284,67811,Bug,Closed,Major,Fixed,Andrea Schmidt,09-07-2024 11:11,28-07-2024 09:53,19-07-2024 09:28
+Update OpenSearch 1.3.17,SAK-50283,67810,Bug,Resolved,Minor,Fixed,David Horwitz,09-07-2024 09:00,17-07-2024 09:16,09-07-2024 11:42
+LTI Remove the "allow settings" checkbox from the New Tool UI,SAK-50278,67805,Improvement,Verified,Minor,Fixed,Charles R Severance,07-07-2024 14:07,08-07-2024 17:54,07-07-2024 23:00
+LTI Update Windows Post Message Documentation,SAK-50277,67804,Improvement,Closed,Minor,Fixed,Charles R Severance,04-07-2024 11:34,04-07-2024 13:21,04-07-2024 13:16
+Calendar should support import or merging all day events,SAK-50276,67803,Bug,Verified,Major,Fixed,Earle Nietzel,03-07-2024 11:23,30-07-2024 11:51,29-07-2024 15:13
+Update Apache Poi 5.3.0,SAK-50275,67802,Bug,Resolved,Major,Fixed,David Horwitz,03-07-2024 00:17,15-07-2024 19:08,03-07-2024 18:03
+"Profile: When looking at another user's profile, the birthdate is not formatted correctly",SAK-50274,67801,Bug,Closed,Major,Fixed,Matthew Jones,02-07-2024 19:45,30-07-2024 17:49,09-07-2024 23:35
+Profile: ckeditor standard version console error - This CKEditor 4.22.1 (Standard) version is not secure.,SAK-50273,67800,Bug,Closed,Critical,Fixed,Matthew Jones,02-07-2024 19:07,30-07-2024 17:42,07-07-2024 19:22
+Improved LTI Admin UI when selecting launch options,SAK-50272,67799,Improvement,Verified,Major,Fixed,Charles R Severance,02-07-2024 11:09,17-07-2024 19:29,09-07-2024 07:34
+Update Lombok 1.18.34,SAK-50271,67798,Bug,Resolved,Major,Fixed,David Horwitz,01-07-2024 11:53,02-07-2024 18:28,01-07-2024 13:40
+Postem: Hitting cancel when adding a new feedback file takes you out to the site overview,SAK-50270,67797,Bug,Closed,Major,Fixed,Christopher Maurer,29-06-2024 20:47,17-07-2024 02:47,01-07-2024 13:50
+Profile remove deprecated hibernate template,SAK-50266,67793,Improvement,In QA,Major,Fixed,Andrea Schmidt,28-06-2024 14:37,02-07-2024 19:49,02-07-2024 11:45
+Filter all Dashboard widget content in Home site by pinned sites,SAK-50265,67792,Feature Request,Verified,Major,Fixed,Adrian Fish,28-06-2024 14:31,26-07-2024 10:20,16-07-2024 13:43
+Rubrics/Gradebook: Criterion comments don?t always display for students,SAK-50262,67789,Bug,Resolved,Major,Fixed,Sean Horner,28-06-2024 13:30,30-07-2024 12:21,30-07-2024 12:21
+LTI: Document annotator cannot be graded,SAK-50255,67782,Bug,Closed,Major,Non-Issue,Charles R Severance,25-06-2024 20:18,04-07-2024 07:13,04-07-2024 07:12
+Tests & Quizzes: Pagination on Total Scores page is not active on initial page load,SAK-50254,67781,Bug,Resolved,Major,Fixed,Christopher Maurer,25-06-2024 09:30,30-07-2024 10:04,30-07-2024 10:04
+Library Fix Sass Deprecation Warnings ,SAK-50253,67780,Bug,Resolved,Major,Fixed,kunaljaykam,25-06-2024 03:00,29-06-2024 18:02,26-06-2024 11:47
+Profile: TypeError: $(...).qtip is not a function,SAK-50251,67778,Bug,Verified,Major,Fixed,kunaljaykam,24-06-2024 19:15,02-07-2024 18:07,01-07-2024 13:45
+Site Info: Auto Groups Select Rosters does not follow dark mode,SAK-50249,67776,Bug,Resolved,Minor,Cannot Reproduce,Core Team,24-06-2024 15:11,30-06-2024 08:54,30-06-2024 08:54
+Site Overview: Blockquoted text does not display,SAK-50244,67771,Bug,Closed,Major,Fixed,Mark Golbeck,23-06-2024 12:37,17-07-2024 04:47,26-06-2024 11:48
+Cannot add LTI tool in Lessons using "Add Learning App",SAK-50241,67768,Bug,Closed,Blocker,Fixed,Core Team,21-06-2024 12:33,26-06-2024 18:36,22-06-2024 04:37
+Admin User Management: every other line is unreadable,SAK-50240,67767,Bug,Resolved,Major,Cannot Reproduce,kunaljaykam,20-06-2024 17:28,27-06-2024 19:34,27-06-2024 19:34
+Admin home: typo in link on home page,SAK-50234,67761,Bug,Verified,Minor,Fixed,Prithvijit Dasgupta,19-06-2024 17:42,11-07-2024 17:29,11-07-2024 17:29
+Update NPM libs across Sakai,SAK-50230,67757,Bug,Resolved,Major,Fixed,Earle Nietzel,18-06-2024 16:19,24-07-2024 17:48,20-06-2024 09:48
+Announcements: Access options reset after returning from attachments view with anon role enabled,SAK-50227,67754,Bug,Verified,Minor,Fixed,Core Team,18-06-2024 05:03,29-06-2024 18:16,19-06-2024 02:51
+Update filter wording for user dashboard course list to clarify display of pinned sites,SAK-50224,67751,Bug,Verified,Major,Fixed,Adrian Fish,17-06-2024 13:07,24-06-2024 15:27,20-06-2024 02:57
+"The discussions/forums dashboard widget shows the totals for all a user's sites, even if there have been no new messages or forum posts",SAK-50223,67750,Bug,Closed,Major,Fixed,Adrian Fish,17-06-2024 11:26,17-07-2024 04:35,20-06-2024 02:58
+Remove the Styleable feature,SAK-50221,67748,Task,Resolved,Major,Fixed,Charles R Severance,15-06-2024 11:59,03-07-2024 17:55,15-06-2024 17:52
+Assignments List: Filter assignments by group,SAK-50218,67745,Bug,Resolved,Major,Fixed,Manu Fuster,14-06-2024 07:11,29-07-2024 21:29,19-06-2024 14:17
+Update UnboundID LDAP SDK for Java 7.0.0,SAK-50217,67744,Bug,Resolved,Major,Fixed,David Horwitz,14-06-2024 05:16,29-06-2024 18:17,18-06-2024 00:32
+Tests and Quizzes: Groups to which the TA does not belong should not be displayed on the selector Who can access this assessment?,SAK-50216,67743,Bug,Resolved,Major,Fixed,Jesus Maria Mendez Perez,14-06-2024 03:59,02-07-2024 11:21,02-07-2024 11:21
+Portal when forming the reset urls should only effect the path of a uri,SAK-50214,67741,Bug,Closed,Critical,Fixed,Earle Nietzel,13-06-2024 13:53,15-06-2024 11:48,13-06-2024 15:53
+Add assignment by columns download (xlsx),SAK-50210,67737,Feature Request,Resolved,Major,Fixed,Jesus Maria Mendez Perez,11-06-2024 02:50,21-06-2024 02:19,21-06-2024 02:19
+Update Apache Commons Configuration 2.11.0,SAK-50209,67736,Bug,Resolved,Major,Fixed,David Horwitz,11-06-2024 00:08,17-07-2024 09:15,11-06-2024 04:24
+Update Apache Commons Net 3.11.1,SAK-50208,67735,Bug,Resolved,Major,Fixed,David Horwitz,10-06-2024 23:59,17-07-2024 09:15,11-06-2024 14:21
+"Remove portal-chat, portal-video-chat, webrtc, etc from Sakai 25",SAK-50207,67734,Bug,Verified,Major,Fixed,Charles R Severance,10-06-2024 23:20,15-06-2024 11:43,12-06-2024 20:25
+LTI: Editor Shopping Cart Dialog shows tools that don't support resource link launch in top half of dialog,SAK-50205,67732,Bug,Closed,Major,Fixed,Charles R Severance,09-06-2024 09:45,14-06-2024 21:56,09-06-2024 14:05
+LTI: External tools not working in ckeditor - bootstrap is not defined,SAK-50202,67729,Bug,Closed,Blocker,Incorporated,Charles R Severance,07-06-2024 22:10,13-06-2024 16:52,13-06-2024 16:51
+Profile: first launch of roster RuntimeException:Fatal error trying to execute custom action method: get-membership:show:getMembership:,SAK-50196,67723,Bug,Closed,Critical,Fixed,Earle Nietzel,05-06-2024 19:14,28-07-2024 15:08,27-06-2024 11:51
+"When creating an assignment, the use rubric radio button is always selected. You have to deselect it or you automatically pick the first rubric in the list.",SAK-50192,67719,Bug,Closed,Major,Fixed,Adrian Fish,05-06-2024 05:31,17-07-2024 04:25,05-06-2024 09:23
+Rationalize the tools automatically created in the !admin and ~admin sites,SAK-50189,67716,Bug,Verified,Major,Fixed,Charles R Severance,04-06-2024 08:47,21-07-2024 09:10,06-06-2024 19:11
+Update Apache FreeMarker 2.3.33,SAK-50188,67715,Bug,Resolved,Major,Fixed,David Horwitz,03-06-2024 23:56,17-07-2024 09:14,04-06-2024 09:05
+Problem with timezone America/Ciudad de Mexico. Upgrading jstimezonedetect,SAK-50186,67713,Bug,Resolved,Major,Fixed,Jesus Maria Mendez Perez,03-06-2024 03:28,03-06-2024 11:05,03-06-2024 11:05
+"Remove the RSS, OPML, and ATOM portals from Sakai",SAK-50183,67710,Bug,Verified,Major,Fixed,Charles R Severance,01-06-2024 18:36,21-07-2024 09:06,04-06-2024 12:45
+Update Apache Net 3.11.0,SAK-50181,67708,Bug,Resolved,Major,Fixed,Core Team,01-06-2024 00:17,17-07-2024 09:14,03-06-2024 11:53
+Grader: UX issues when removing and revising comments,SAK-50178,67705,Bug,Closed,Critical,Fixed,Adrian Fish,30-05-2024 19:59,26-06-2024 18:44,18-06-2024 09:31
+Lessons: jquery.cluetip.css?version=ea20e348 net::ERR_ABORTED 404 (Not Found),SAK-50177,67704,Bug,Closed,Major,Fixed,Matthew Jones,30-05-2024 17:52,31-07-2024 10:52,15-07-2024 09:45
+Libsass support for arm64 (apple silicon),SAK-50174,67701,Bug,Resolved,Major,Fixed,Earle Nietzel,30-05-2024 13:39,02-07-2024 02:08,30-05-2024 13:57
+DA returning two users if the user is internal and external,SAK-50173,67700,Bug,Closed,Major,Fixed,Sam Ottenhoff,30-05-2024 13:33,07-06-2024 11:43,31-05-2024 11:58
+Add coordinator node for ignite cluster info,SAK-50172,67699,Improvement,Resolved,Major,Fixed,Earle Nietzel,30-05-2024 12:55,03-06-2024 11:06,03-06-2024 11:06
+Gradebook: Quick Entry console error Cannot read properties of null (reading 'removeAttribute'),SAK-50170,67697,Bug,Verified,Major,Fixed,Sam Ottenhoff,29-05-2024 19:58,04-06-2024 19:49,30-05-2024 10:58
+Gradebook: Custom Export has a small and a large X to close the modal,SAK-50169,67696,Bug,Closed,Minor,Fixed,Zhuo Yang,29-05-2024 19:40,17-07-2024 02:51,03-07-2024 09:12
+Upgrade Apache Ignite to 2.16.0,SAK-50168,67695,Improvement,Resolved,Major,Fixed,Earle Nietzel,29-05-2024 16:05,30-05-2024 10:35,30-05-2024 10:35
+SakaiPlus - Remove "Single Tool Support",SAK-50165,67691,Bug,Verified,Major,Fixed,Charles R Severance,28-05-2024 19:53,11-06-2024 17:22,10-06-2024 10:15
+"Remove mycalendar, sitemembers, sitedescription widgets from core",SAK-50161,67687,Bug,Resolved,Major,Fixed,Adrian Fish,28-05-2024 12:53,04-06-2024 12:14,04-06-2024 12:14
+Grader: Rubrics don't show comments until saved,SAK-50160,67686,Bug,Resolved,Major,Cannot Reproduce,Adrian Fish,28-05-2024 11:13,10-07-2024 11:12,03-06-2024 12:06
+Feedback to students,SAK-50159,67685,Improvement,Resolved,Major,Duplicate,Core Team,28-05-2024 11:10,31-05-2024 02:30,30-05-2024 19:06
+Test and Quizzes: Error exporting question pool,SAK-50153,67678,Bug,Verified,Critical,Fixed,Jesus Maria Mendez Perez,27-05-2024 08:13,17-06-2024 19:45,17-06-2024 08:14
+Uploaded files are corrupted after mime detection,SAK-50150,67675,Bug,Verified,Blocker,Fixed,Earle Nietzel,27-05-2024 00:31,30-05-2024 17:41,28-05-2024 23:57
+Bulk Membership: Removal of users does not work in an official site,SAK-50149,67674,Bug,Resolved,Critical,Non-Issue,Bernardo Garcia Vila,26-05-2024 21:15,30-05-2024 18:27,30-05-2024 18:27
+Upgrade Sitemembers and Sitedescription widgets to Wicket 9,SAK-50140,67665,Bug,Resolved,Major,Fixed,Sam Ottenhoff,24-05-2024 10:29,28-05-2024 12:57,28-05-2024 11:35
+Add redirect to /portal in the new ROOT webapp,SAK-50129,67654,Bug,Resolved,Major,Fixed,Charles R Severance,22-05-2024 13:44,29-05-2024 11:59,23-05-2024 07:42
+Commons: Not able to create new post using High Priority,SAK-50125,67650,Bug,Resolved,Major,Cannot Reproduce,Adrian Fish,21-05-2024 13:09,23-05-2024 18:50,23-05-2024 18:50
+Show archive download zips in reverse date order,SAK-50120,67645,Task,Closed,Major,Fixed,Stephen Marquard,19-05-2024 12:15,09-06-2024 10:07,20-05-2024 14:27
+Admin: Importing multiple users via CSV fails,SAK-50113,67638,Bug,Resolved,Blocker,Incorporated,Earle Nietzel,17-05-2024 15:39,30-05-2024 17:41,30-05-2024 17:41
+Site Info: Date Manager UX issues,SAK-50110,67635,Bug,Closed,Major,Fixed,Sean Horner,17-05-2024 11:29,08-06-2024 20:41,20-05-2024 14:28
+Kernel tests not running if maven auto detects junit5 on the classpath,SAK-50105,67630,Bug,Resolved,Major,Fixed,Earle Nietzel,15-05-2024 12:48,28-05-2024 17:57,15-05-2024 14:44
+Roster: Photo Grid is broken,SAK-50101,67626,Bug,Resolved,Critical,Fixed,Manu Fuster,15-05-2024 05:54,30-07-2024 09:57,30-07-2024 09:56
+Lessons: import from another site console error wait.gif 404 (Not Found),SAK-50100,67625,Bug,Closed,Major,Fixed,Sam Ottenhoff,14-05-2024 19:16,30-07-2024 18:04,30-05-2024 10:58
+Lessons: Uncaught ReferenceError: SPNR is not defined,SAK-50099,67624,Bug,Closed,Major,Fixed,Sam Ottenhoff,14-05-2024 18:28,09-06-2024 10:09,22-05-2024 09:29
+Grades widget for student: grades not displaying for tools external to the GB,SAK-50096,67621,Bug,Verified,Blocker,Fixed,Core Team,13-05-2024 18:48,17-05-2024 19:15,16-05-2024 18:46
+Gradebook: Titles can overflow and grid can become misaligned,SAK-50094,67619,Bug,Resolved,Major,Fixed,Myles Carey,13-05-2024 15:06,25-06-2024 09:44,25-06-2024 09:44
+Academic Term Manager: wicket8 to wicket9 upgrade,SAK-50092,67617,Bug,Resolved,Major,Fixed,Sam Ottenhoff,13-05-2024 13:50,18-05-2024 09:38,18-05-2024 09:38
+Updated Help content for 23.2,SAK-50091,67616,Bug,Closed,Blocker,Fixed,Sam Ottenhoff,13-05-2024 11:46,17-05-2024 14:47,15-05-2024 13:31
+Roster: first load of roster tool stacktraces (official site): RuntimeException:Fatal error trying to execute custom action method: get-membership,SAK-50089,67614,Bug,Resolved,Blocker,Incorporated,Adrian Fish,12-05-2024 12:36,28-07-2024 15:09,28-07-2024 15:09
+Wiki: Group support - jquery console error,SAK-50088,67613,Bug,Verified,Major,Fixed,Bernardo Garcia Vila,12-05-2024 11:15,18-05-2024 18:51,14-05-2024 11:03
+Library Import Font Awesome-4 with SASS Math Compatibility,SAK-50087,67612,Bug,Resolved,Major,Fixed,kunaljaykam,12-05-2024 05:57,03-06-2024 06:09,03-06-2024 06:09
+Gradebook: The grading table and student table has uneven padding in TA,SAK-50084,67609,Bug,Verified,Major,Fixed,kunaljaykam,11-05-2024 06:21,18-05-2024 19:06,18-05-2024 09:39
+Gradebook: Unhide column handle is misaligned,SAK-50083,67608,Bug,Verified,Major,Fixed,Myles Carey,10-05-2024 18:00,13-05-2024 12:13,10-05-2024 22:10
+Assignments: Originality Service Name missing from Grader,SAK-50078,67603,Bug,Closed,Major,Fixed,Manu Fuster,09-05-2024 05:09,11-05-2024 11:07,09-05-2024 16:08
+Question Pool: calculated question solution cancel button console error,SAK-50075,67600,Bug,Verified,Major,Fixed,Sam Ottenhoff,08-05-2024 19:10,22-05-2024 19:03,20-05-2024 14:20
+Lessons: CSS console error on Bulk Edit Subpages,SAK-50074,67599,Bug,Closed,Major,Fixed,Sam Ottenhoff,08-05-2024 09:58,16-05-2024 17:26,10-05-2024 14:55
+Rubrics: Can not grade if Adjust Scores is selected,SAK-50073,67598,Bug,Verified,Blocker,Fixed,Sean Horner,08-05-2024 09:32,17-07-2024 11:01,16-07-2024 13:46
+Global update Spring Web to 5.3.34,SAK-50069,67594,Bug,Resolved,Major,Fixed,Earle Nietzel,07-05-2024 12:09,28-05-2024 18:08,08-05-2024 10:09
+T&Q: Navigation in questions tab is missing,SAK-50064,67589,Bug,Verified,Blocker,Fixed,Bernardo Garcia Vila,06-05-2024 19:34,11-05-2024 11:25,10-05-2024 15:51
+Console log error for incorrect use of label for sakai-search-field,SAK-50062,67587,Bug,Resolved,Major,Fixed,Adrian Fish,05-05-2024 18:28,06-05-2024 11:06,06-05-2024 10:48
+Clicking on Reorder button doesn't do anything,SAK-50061,67586,Bug,Resolved,Minor,Incorporated,Matthew Jones,05-05-2024 17:55,05-05-2024 17:59,05-05-2024 17:59
+Reduce excessive messages in console output from sakai-lti-advantage.js,SAK-50060,67585,Bug,Closed,Major,Fixed,Matthew Jones,05-05-2024 14:58,19-07-2024 18:50,06-05-2024 10:45
+T&Q: Instructor statistics page: Uncaught TypeError: $(...).dropdown is not a function,SAK-50057,67582,Bug,Verified,Major,Fixed,Sam Ottenhoff,05-05-2024 10:03,18-05-2024 18:58,14-05-2024 10:06
+Gradebook: Student review mode does not hide all other student grades,SAK-50055,67580,Bug,Closed,Blocker,Fixed,Earle Nietzel,03-05-2024 10:34,11-05-2024 10:18,09-05-2024 18:05
+Rubrics: Max points do not display for imported rubrics,SAK-50052,67577,Bug,Closed,Major,Fixed,Sean Horner,02-05-2024 13:31,14-05-2024 19:22,03-05-2024 13:27
+Site Info: Incorrect numbering when generating additional Joinable Sets,SAK-50051,67576,Bug,Closed,Major,Fixed,Manu Fuster,02-05-2024 07:50,11-05-2024 11:04,07-05-2024 11:28
+Notifications (bullhorns) needs an improved workflow for setting up browser push permissions.,SAK-50050,67575,Bug,Closed,Blocker,Fixed,Adrian Fish,02-05-2024 07:04,18-07-2024 17:08,14-05-2024 03:04
+Announcements: Highlighted status not always accurate in Edit view,SAK-50030,67555,Bug,Closed,Major,Fixed,Sean Horner,29-04-2024 19:35,29-07-2024 19:06,06-05-2024 10:39
+Grades widget-students: Have the scores in the Grades widget in Dashboard blurred by default,SAK-50029,67554,Improvement,Closed,Major,Fixed,Adrian Fish,29-04-2024 19:22,14-05-2024 17:55,13-05-2024 18:22
+Tasks widget in the account panel should be disabled if tasks are disabled in dashboard,SAK-50028,67553,Bug,Closed,Major,Fixed,Earle Nietzel,29-04-2024 14:08,08-05-2024 09:07,02-05-2024 19:55
+Update Bootstrap-Icons 1.11.3,SAK-50027,67552,Bug,Resolved,Major,Fixed,kunaljaykam,29-04-2024 07:48,28-05-2024 18:10,30-04-2024 11:19
+My Tasks Widget doesn't show student data,SAK-50026,67551,Bug,Closed,Blocker,Fixed,Earle Nietzel,28-04-2024 10:41,14-05-2024 17:47,06-05-2024 18:13
+Update Commons Codec 1.17.0,SAK-50025,67550,Bug,Closed,Major,Fixed,David Horwitz,28-04-2024 00:22,25-07-2024 23:50,29-04-2024 04:16
+Archive assignment attachments and supplementary items,SAK-50024,67549,Task,Closed,Major,Fixed,Stephen Marquard,27-04-2024 11:09,12-06-2024 18:59,30-04-2024 11:13
+Archive embedded and cross-site files for Lessons content,SAK-50022,67547,Improvement,Closed,Major,Fixed,Stephen Marquard,27-04-2024 05:21,17-06-2024 20:42,06-05-2024 10:38
+Special handling for attachment archiving for T&Q and user files,SAK-50021,67546,Improvement,Closed,Major,Fixed,Stephen Marquard,27-04-2024 04:58,09-06-2024 11:00,06-05-2024 10:37
+Archive site realm providers,SAK-50020,67545,Task,Closed,Major,Fixed,Stephen Marquard,27-04-2024 04:01,04-06-2024 19:11,30-04-2024 11:04
+Assignments: Ungraded assignments with rubrics should have blank Grade fields,SAK-50017,67542,Bug,Closed,Major,Fixed,Sean Horner,26-04-2024 13:30,09-07-2024 10:33,25-06-2024 10:43
+Handle cell character limit exception for Question Pool export,SAK-50016,67541,Bug,Verified,Major,Fixed,Vicent Alfonso,26-04-2024 10:12,30-07-2024 23:54,06-05-2024 10:44
+Tests & Quizzes: file upload question don't keep hide points config,SAK-50013,67538,Bug,Closed,Major,Fixed,Core Team,26-04-2024 08:04,29-05-2024 02:14,26-04-2024 14:00
+Grader/Rubrics: Retaining criterion comments from previous student,SAK-50010,67535,Bug,Closed,Blocker,Fixed,Adrian Fish,25-04-2024 12:09,30-07-2024 12:21,17-07-2024 08:07
+Unexpected end of JSON input at SakaiRubricAssociation.js,SAK-50009,67534,Bug,Closed,Major,Fixed,Sam Ottenhoff,25-04-2024 09:53,01-05-2024 04:33,26-04-2024 10:42
+Site Info: Students are able to join/leave a Joinable Set after the Close Date ends,SAK-50008,67533,Bug,Verified,Major,Fixed,Vicent Alfonso,25-04-2024 02:30,25-06-2024 10:36,12-06-2024 06:00
+Discussions/Rubrics: Criteria comments not saved while grading,SAK-50004,67529,Bug,Closed,Critical,Fixed,Sean Horner,24-04-2024 12:48,09-06-2024 20:41,04-06-2024 11:28
+Error with some Microsoft requests,SAK-50003,67528,Bug,Resolved,Critical,Fixed,Francisco Saez,24-04-2024 07:31,28-05-2024 18:11,26-04-2024 13:17
+Library - npm update autoprefixer,SAK-50001,67526,Bug,Resolved,Major,Fixed,kunaljaykam,24-04-2024 03:16,28-05-2024 18:12,25-04-2024 09:01
+Webcomponents: do not fire /api/users/me/grades until clicked,SAK-50000,67525,Bug,Closed,Blocker,Fixed,Earle Nietzel,23-04-2024 16:40,03-05-2024 17:56,01-05-2024 18:29
+Assignments: Improve performance and UX of Assignments by student view  ,SAK-49998,67523,Feature Request,Resolved,Major,Fixed,Markus Stetschnig,23-04-2024 10:34,03-06-2024 12:03,03-06-2024 12:03
+Move search tool css into library,SAK-49997,67522,Bug,Resolved,Minor,Fixed,Adrian Fish,23-04-2024 10:03,29-07-2024 13:18,25-04-2024 05:51
+Assignments: Submission export breaks on big data set,SAK-49996,67521,Bug,Resolved,Major,Duplicate,Core Team,23-04-2024 09:26,29-05-2024 11:45,24-04-2024 02:45
+The commons tool is not properly responsive on small displays.,SAK-49993,67518,Bug,Verified,Major,Fixed,Adrian Fish,23-04-2024 06:18,02-05-2024 15:16,23-04-2024 15:27
+Profile: SAKAI_LOCKS_INDEX error as soon as user clicks on Profile from their home page,SAK-49991,67516,Bug,Closed,Blocker,Fixed,Earle Nietzel,22-04-2024 20:06,10-05-2024 10:59,06-05-2024 10:37
+Roster-View Profile: users receive "The site you requested is not available" after clicking to view a user's profile,SAK-49990,67515,Bug,Closed,Blocker,Fixed,Sam Ottenhoff,22-04-2024 20:00,14-05-2024 15:16,10-05-2024 16:25
+Upgrade Gradebook from Wicket 6 to Wicket 9,SAK-49989,67514,Improvement,Resolved,Major,Fixed,Sam Ottenhoff,22-04-2024 14:11,09-06-2024 09:09,26-04-2024 10:59
+Inserting paragraph break into Assignment Instructions breaks the LTI tool connection for External Tool Assignments,SAK-49988,67513,Bug,Closed,Critical,Fixed,Charles R Severance,22-04-2024 11:56,29-07-2024 18:05,20-07-2024 10:10
+Assignments: Submission export breaks on big data set,SAK-49987,67512,Bug,Resolved,Major,Fixed,Core Team,22-04-2024 06:21,26-04-2024 13:19,26-04-2024 13:19
+Use SASS math functions,SAK-49984,67509,Bug,Verified,Major,Fixed,kunaljaykam,20-04-2024 09:43,28-05-2024 19:36,18-05-2024 09:45
+Forums: Option for read-only after close date does not import,SAK-49981,67506,Bug,Closed,Major,Fixed,Sean Horner,18-04-2024 16:22,14-05-2024 19:21,30-04-2024 11:02
+"Site Info > Auto-groups (official site): when creating groups for students, there are ""extra"" listings without name, user eid ",SAK-49979,67504,Bug,Resolved,Major,Non-Issue,Core Team,17-04-2024 20:17,25-04-2024 19:23,25-04-2024 19:23
+Remove intermediate files from build with maven-clean-plugin,SAK-49977,67502,Bug,Resolved,Minor,Fixed,Earle Nietzel,17-04-2024 14:12,28-05-2024 18:13,17-04-2024 17:01
+EntityManager is adding non loadable entities by producers to unresolvable roots cache,SAK-49975,67500,Bug,Verified,Major,Fixed,Earle Nietzel,17-04-2024 11:57,18-04-2024 18:59,17-04-2024 14:18
+Update Apache Commons Text 1.12.0,SAK-49974,67499,Bug,Closed,Major,Fixed,David Horwitz,17-04-2024 11:23,25-07-2024 23:50,19-04-2024 04:18
+"Multiple tools always displayed in Dark Mode, regardless of settings",SAK-49973,67498,Bug,Resolved,Major,Cannot Reproduce,Core Team,17-04-2024 09:36,19-04-2024 10:40,19-04-2024 10:40
+LTI-Assignments: Instructor is no longer able to grade lti assignment submissions,SAK-49964,67489,Bug,Closed,Blocker,Fixed,Adrian Fish,13-04-2024 11:03,19-04-2024 19:13,17-04-2024 17:18
+Recent Announcements: Incorrect attribution of highlighting,SAK-49963,67488,Bug,Resolved,Major,Fixed,Sean Horner,12-04-2024 16:43,29-07-2024 19:03,22-04-2024 10:41
+Assignments: value on student submissions screen being shown on wrong lines,SAK-49959,67484,Bug,Resolved,Major,Fixed,Bernardo Garcia Vila,12-04-2024 06:44,29-07-2024 23:56,12-04-2024 10:39
+LTI-Assignments: Only show valid tools that can be added as an LTI assignment,SAK-49958,67483,Bug,Resolved,Major,Non-Issue,Charles R Severance,11-04-2024 20:07,10-06-2024 18:33,10-06-2024 18:27
+Site Info: Tool reordering UX regressions,SAK-49955,67481,Bug,Closed,Critical,Fixed,Matthew Jones,11-04-2024 18:04,11-05-2024 10:22,06-05-2024 10:46
+"SakaiPlus - plus.provider.enabled - sakai.properties, README.md, and kernel BLTI values differ",SAK-49954,67480,Bug,Resolved,Major,Fixed,Charles R Severance,11-04-2024 16:24,26-04-2024 13:44,26-04-2024 13:44
+Update Apache Commons IO 2.16.1,SAK-49945,67471,Bug,Closed,Major,Fixed,David Horwitz,09-04-2024 23:40,25-07-2024 23:50,10-04-2024 11:04
+Cannot Add External Tool (LTI 1.1) as an Assignment Type,SAK-49944,67470,Bug,Closed,Critical,Fixed,Charles R Severance,09-04-2024 16:52,22-06-2024 00:11,10-06-2024 18:53
+Courses not automatically pinned for instructor until they log out and back in,SAK-49942,67468,Bug,Closed,Major,Fixed,Earle Nietzel,08-04-2024 19:26,26-05-2024 20:33,09-04-2024 16:14
+Lessons import from site fails when a linked quiz is null,SAK-49941,67467,Bug,Closed,Major,Fixed,Earle Nietzel,08-04-2024 14:53,02-06-2024 11:44,09-04-2024 10:33
+ckEditor: enabled dark mode results in a white line between toolbar and content,SAK-49940,67466,Bug,Verified,Minor,Fixed,kunaljaykam,08-04-2024 06:53,30-07-2024 23:38,12-04-2024 10:15
+Rubrics: Add actual name to generic tooltips,SAK-49934,67461,Bug,Closed,Major,Fixed,Sean Horner,04-04-2024 19:29,10-06-2024 19:21,22-04-2024 10:33
+Rubrics: Rubric Statistics feature not working in Gradebook,SAK-49933,67460,Bug,Closed,Major,Fixed,Sean Horner,04-04-2024 13:29,09-06-2024 20:56,22-04-2024 10:35
+Update Apache commons Imaging 1.0.0-alpha4,SAK-49931,67458,Bug,Closed,Critical,Fixed,David Horwitz,04-04-2024 00:19,25-07-2024 23:50,04-04-2024 11:06
+Assignments: Make Peer Review Comments Visible from Grader fails with multiple console errors,SAK-49929,67456,Bug,Closed,Blocker,Fixed,Adrian Fish,03-04-2024 18:57,12-04-2024 18:28,09-04-2024 10:27
+Section Info: Need a direct way to navigate back to the main ?Student Memberships? page/list of Students after assigning/unassigning a Student,SAK-49928,67455,Bug,Verified,Major,Fixed,Matthew Jones,03-04-2024 15:55,24-07-2024 15:24,08-04-2024 15:27
+Discussions: Author profile popups do not display,SAK-49927,67454,Bug,Resolved,Major,Fixed,Sam Ottenhoff,03-04-2024 13:41,29-07-2024 23:42,03-04-2024 17:24
+Rubric sorting by date does not work correctly,SAK-49924,67451,Bug,Resolved,Major,Fixed,Sam Ottenhoff,03-04-2024 12:47,03-04-2024 14:21,03-04-2024 14:21
+Re-apply webcomponent mods made before empathise merge,SAK-49923,67450,Bug,Verified,Major,Fixed,Sam Ottenhoff,03-04-2024 11:43,06-04-2024 09:20,03-04-2024 14:21
+Console error on initial user login: Uncaught (in promise) TypeError: Cannot read properties of null (reading 'unsubscribe'),SAK-49922,67449,Bug,Resolved,Major,Duplicate,Earle Nietzel,03-04-2024 08:20,05-04-2024 10:58,05-04-2024 10:58
+Rubrics: Removing a newly-created criterion before refreshing the page shows the wrong name,SAK-49921,67448,Bug,Closed,Major,Fixed,Sean Horner,02-04-2024 23:33,15-05-2024 19:25,22-04-2024 10:33
+Dashboard Tool Not Responsive,SAK-49917,67445,Bug,Closed,Major,Fixed,Adrian Fish,01-04-2024 16:07,22-07-2024 13:18,23-04-2024 15:34
+Lessons fails to embed URLs when attempting to link to web page or Google doc,SAK-49916,67444,Bug,Closed,Major,Fixed,Sam Ottenhoff,01-04-2024 13:59,11-05-2024 10:56,03-04-2024 14:45
+Gateway: Permission Error in SiteHandler (setting selectedPage),SAK-49910,67438,Bug,Closed,Major,Fixed,kunaljaykam,29-03-2024 11:54,10-05-2024 10:58,08-04-2024 08:23
+"""u"" or ""d"" cannot be entered as Tool Title",SAK-49909,67437,Bug,Closed,Major,Fixed,Matthew Jones,29-03-2024 11:41,18-04-2024 03:03,08-04-2024 11:50
+Remove DBCP And Tomcat JDBC,SAK-49908,67436,Sub-task,Resolved,Major,Fixed,Core Team,29-03-2024 10:24,03-04-2024 15:29,03-04-2024 15:29
+Remove old commons-collection ,SAK-49906,67434,Sub-task,Resolved,Major,Fixed,Sam Ottenhoff,29-03-2024 10:23,29-03-2024 11:02,29-03-2024 11:02
+Remove old commons-lang,SAK-49905,67433,Sub-task,Resolved,Major,Fixed,Sam Ottenhoff,29-03-2024 10:21,01-04-2024 15:58,01-04-2024 15:58
+User prefs tool errors during startup ,SAK-49903,67431,Bug,Closed,Major,Fixed,Earle Nietzel,28-03-2024 15:10,02-06-2024 11:48,28-03-2024 21:46
+Rubrics: Placeholder text issue with editing a Criterion,SAK-49899,67427,Bug,Verified,Major,Fixed,Christopher Maurer,27-03-2024 17:45,07-06-2024 10:48,03-06-2024 09:42
+Site Import - Merge is replacing data in Conversations,SAK-49897,67425,Bug,Verified,Critical,Fixed,Adrian Fish,27-03-2024 16:21,02-04-2024 04:12,28-03-2024 09:23
+Lessons: Page layout checklists include custom CSS,SAK-49896,67424,Bug,Closed,Major,Fixed,Matthew Jones,27-03-2024 15:26,17-07-2024 02:59,10-04-2024 17:24
+Can't comment on a conversations post. Nothing happens and there is a console error.,SAK-49890,67417,Bug,Verified,Major,Fixed,Adrian Fish,26-03-2024 13:40,06-04-2024 09:34,27-03-2024 06:49
+Conversations: getPostsByTopicId fails sometimes on Windows,SAK-49889,67416,Bug,Resolved,Major,Fixed,Sam Ottenhoff,26-03-2024 11:35,26-03-2024 17:33,26-03-2024 14:11
+Assignments: NPE due to AssignmentAction.getNonInlineAttachments,SAK-49887,67414,Bug,Closed,Blocker,Incorporated,Earle Nietzel,25-03-2024 16:10,06-05-2024 05:13,25-03-2024 18:49
+Tests & Quizzes: Missing status label translations,SAK-49886,67413,Bug,Resolved,Minor,Fixed,Core Team,25-03-2024 09:55,26-03-2024 06:06,26-03-2024 06:06
+Wiki: Side bar text is not readable. ,SAK-49882,67409,Bug,Resolved,Minor,Incorporated,Matthew Jones,24-03-2024 16:41,30-03-2024 15:57,30-03-2024 15:57
+Wiki: Search results do not follow dark mode. ,SAK-49881,67408,Bug,Verified,Minor,Fixed,Matthew Jones,24-03-2024 16:32,29-07-2024 21:51,14-05-2024 11:00
+Rubrics: Toolbar on left disappears when a TA/student views the unlocked Rubric tool,SAK-49876,67403,Bug,Closed,Blocker,Fixed,Sam Ottenhoff,24-03-2024 15:30,14-05-2024 17:43,10-05-2024 17:46
+Kebab menu on conversations post is coloured incorrectly in dark mode,SAK-49872,67399,Bug,Verified,Major,Fixed,Adrian Fish,24-03-2024 08:04,04-04-2024 15:17,25-03-2024 07:00
+Rubrics: Comment pop-up displays undefined when instructor grades,SAK-49867,67394,Bug,Closed,Major,Fixed,Sean Horner,23-03-2024 09:59,09-06-2024 21:07,22-04-2024 10:36
+Severe critical error during deployment with Tomcat 9.0.87,SAK-49865,67392,Bug,Resolved,Critical,Cannot Reproduce,Matthew Jones,22-03-2024 09:37,20-06-2024 03:38,16-04-2024 14:15
+"Messages: On 'Reply to all', include last users that joined the groups to which the mail was sent",SAK-49864,67391,Bug,Resolved,Major,Fixed,Vicent Alfonso,22-03-2024 09:09,22-04-2024 13:01,22-04-2024 13:01
+Assignments: Correct the format of Similarity Reports in the Grader,SAK-49863,67390,Bug,Closed,Minor,Fixed,Manu Fuster,22-03-2024 07:46,11-05-2024 11:15,09-05-2024 16:10
+Update Lombok 1.18.32,SAK-49862,67389,Bug,Closed,Major,Fixed,David Horwitz,22-03-2024 04:39,25-07-2024 23:50,22-03-2024 07:36
+Fix Custom Icon (FontAwesome Icon Picker Popup) Issues in Dark Mode and Add Placeholder Text,SAK-49860,67387,Bug,Closed,Major,Fixed,kunaljaykam,21-03-2024 12:46,25-04-2024 12:21,22-03-2024 07:17
+Update Apache CXF 3.6.3,SAK-49859,67386,Bug,Closed,Major,Fixed,David Horwitz,21-03-2024 03:00,25-07-2024 23:49,21-03-2024 16:11
+LTI13 should provide more SCOPEs in JWT,SAK-49855,67382,Bug,Resolved,Major,Fixed,Charles R Severance,19-03-2024 14:13,25-04-2024 19:07,19-03-2024 20:57
+PLUS_SUBJECT composite key is too big,SAK-49854,67381,Bug,Resolved,Major,Fixed,Charles R Severance,19-03-2024 10:56,05-04-2024 11:31,05-04-2024 11:31
+Lessons: Content links have change assignment options,SAK-49853,67380,Bug,Verified,Major,Fixed,Sam Ottenhoff,19-03-2024 09:22,13-05-2024 14:32,22-04-2024 10:30
+Test and quizzes: Next and previous buttons on test list does not follow dark mode,SAK-49849,67376,Bug,Closed,Minor,Fixed,kunaljaykam,18-03-2024 19:36,08-06-2024 20:39,28-05-2024 11:24
+Assignments Progress Bar does not handle resubmission correctly,SAK-49848,67375,Bug,Resolved,Major,Fixed,Sam Ottenhoff,18-03-2024 14:15,30-07-2024 13:11,03-04-2024 15:18
+Conversations:  o.h.e.j.s.SqlExceptionHelper.logExceptions (conn=3719) Duplicate entry,SAK-49845,67372,Bug,Closed,Major,Fixed,Earle Nietzel,16-03-2024 12:11,05-06-2024 18:25,03-04-2024 15:21
+Conversations: user cannot edit topic unless console errors are present,SAK-49844,67371,Bug,Verified,Blocker,Fixed,Adrian Fish,16-03-2024 11:35,03-04-2024 23:54,22-03-2024 17:17
+Conversations: Users unable to reply to topics - Uncaught TypeError: document.getElementById(...).getContent is not a function,SAK-49843,67370,Bug,Verified,Blocker,Fixed,Adrian Fish,16-03-2024 11:01,06-04-2024 08:59,22-03-2024 06:57
+Use modern no-cache headers,SAK-49840,67367,Bug,Resolved,Major,Fixed,Sam Ottenhoff,14-03-2024 13:51,18-03-2024 06:35,18-03-2024 06:35
+Discussions: Disappearing calendar control in topic/forum settings,SAK-49839,67366,Bug,Closed,Major,Fixed,Sean Horner,14-03-2024 13:13,08-04-2024 18:10,19-03-2024 13:22
+LTI 1.1 Test Tool does not delete the grade,SAK-49838,67365,Bug,Closed,Critical,Fixed,Shivangi Kumar,13-03-2024 19:56,09-06-2024 10:04,23-04-2024 14:02
+Gradebook: Quick Fix view does not adapt to percentages entry,SAK-49837,67364,Bug,Closed,Major,Fixed,Sean Horner,13-03-2024 18:48,04-04-2024 16:47,14-03-2024 11:54
+Assignments > Add Submission History and Submission Timestamps to Grader,SAK-49836,67363,Feature Request,Closed,Critical,Fixed,Adrian Fish,13-03-2024 18:39,15-05-2024 11:57,12-04-2024 10:44
+Sitestats: Student view needs the UI updated,SAK-49833,67360,Bug,Closed,Major,Fixed,kunaljaykam,12-03-2024 18:34,18-04-2024 03:09,04-04-2024 08:04
+Site Info: View section membership table not contained inside pop-up,SAK-49830,67357,Bug,Verified,Major,Fixed,kunaljaykam,11-03-2024 19:06,27-04-2024 19:55,26-04-2024 13:41
+Dashboard: java.sql.SQLIntegrityConstraintViolationException and java.io.FileNotFoundException,SAK-49829,67356,Bug,Resolved,Blocker,Cannot Reproduce,Adrian Fish,11-03-2024 18:30,22-03-2024 21:06,22-03-2024 21:06
+Gradebook misalignment with very long category name,SAK-49828,67355,Bug,Closed,Major,Fixed,Sam Ottenhoff,11-03-2024 15:04,19-06-2024 11:36,12-03-2024 10:46
+Update Apache commons compress 1.26.1,SAK-49827,67354,Bug,Closed,Major,Fixed,David Horwitz,11-03-2024 00:32,25-07-2024 23:48,13-03-2024 20:45
+LTI: NPE rg.sakaiproject.basiclti.util.SakaiBLTIUtil.getSignedPlacement(SakaiBLTIUtil.java:2123),SAK-49825,67352,Bug,Resolved,Blocker,Non-Issue,Charles R Severance,09-03-2024 11:44,13-03-2024 16:08,11-03-2024 17:55
+"Portal: Tutorial pops up on every page for an admin user, even after being dismissed",SAK-49824,67351,Bug,Verified,Critical,Fixed,kunaljaykam,08-03-2024 18:46,18-05-2024 18:59,07-05-2024 07:00
+Site Info: View Membership links for groups missing,SAK-49822,67349,Bug,Resolved,Major,Duplicate,kunaljaykam,08-03-2024 16:45,26-04-2024 02:34,14-03-2024 19:29
+Gradebook-Rubrics: Rubric icon missing from student gradebook,SAK-49821,67348,Bug,Resolved,Major,Duplicate,Earle Nietzel,07-03-2024 14:30,07-03-2024 18:56,07-03-2024 18:56
+Lessons: Default placeholder not updated in Catalan,SAK-49817,67344,Bug,Closed,Major,Fixed,Manu Fuster,07-03-2024 09:26,19-06-2024 11:55,14-03-2024 12:34
+Use XML 1.1 serialization in BasicSerializableRepository,SAK-49813,67340,Task,Closed,Major,Fixed,Stephen Marquard,05-03-2024 04:15,02-06-2024 11:26,05-03-2024 12:08
+Gradebook: ?Excuse/Include Grade? with percentage entry distorts scores,SAK-49811,67338,Bug,Closed,Critical,Fixed,Sean Horner,04-03-2024 17:39,23-04-2024 18:51,14-03-2024 11:54
+Replace the getters and setters in the content hosting service with annotations.,SAK-49808,67335,Improvement,Resolved,Minor,Fixed,Adrian Fish,04-03-2024 12:17,24-03-2024 09:06,05-03-2024 15:35
+Rubrics: Rubric icon appears to students if rubric is hidden,SAK-49806,67333,Bug,Closed,Critical,Fixed,Sean Horner,04-03-2024 10:18,30-07-2024 12:47,22-04-2024 10:32
+Assignments: saving a grade or comment in new grader should use the same message as the old grader,SAK-49802,67329,Bug,Verified,Major,Fixed,Sam Ottenhoff,03-03-2024 10:56,02-04-2024 22:31,07-03-2024 04:34
+Messages: Avoid creating an empty second line of the original message,SAK-49796,67323,Bug,Closed,Minor,Fixed,Juan David Massanet Puentes,29-02-2024 08:04,02-05-2024 02:02,26-03-2024 10:43
+PA System pop up text color needs more contrast in Dark Mode,SAK-49795,67322,Bug,Closed,Major,Fixed,Austin,28-02-2024 14:07,19-06-2024 11:57,18-03-2024 06:36
+Word count algorithm in Statistics is different from word count algorithm when viewing a post,SAK-49794,67321,Bug,Closed,Major,Fixed,Andrea Schmidt,28-02-2024 11:45,09-03-2024 11:05,05-03-2024 12:45
+Polls tool does not implement cleanup (replace) for import,SAK-49793,67320,Bug,Verified,Major,Fixed,Christopher Maurer,27-02-2024 23:15,17-03-2024 17:00,29-02-2024 16:59
+Update Apache commons compress 1.26.0,SAK-49791,67318,Bug,Closed,Major,Fixed,David Horwitz,26-02-2024 23:43,25-07-2024 23:48,27-02-2024 11:23
+Update Joda-time 2.12.7,SAK-49788,67315,Bug,Closed,Minor,Fixed,David Horwitz,25-02-2024 23:50,25-07-2024 23:48,27-02-2024 11:24
+Tests & Quizzes: Submissions cannot be graded,SAK-49787,67314,Bug,Resolved,Blocker,Cannot Reproduce,Core Team,25-02-2024 17:33,11-03-2024 23:18,11-03-2024 23:18
+"Mailsender: No users displaying for roles, unable to send email",SAK-49786,67313,Bug,Verified,Critical,Fixed,Christopher Maurer,25-02-2024 17:13,07-04-2024 08:13,26-02-2024 11:47
+Gradebook: Extra credit warning is not readable in dark mode. ,SAK-49784,67311,Bug,Closed,Minor,Fixed,Matthew Jones,25-02-2024 08:54,09-05-2024 19:36,08-04-2024 15:27
+Messages tab headers are inconsistent,SAK-49783,67310,Bug,Closed,Major,Fixed,kunaljaykam,23-02-2024 15:35,01-05-2024 03:33,26-04-2024 13:18
+Update Log4j 2.23.0,SAK-49781,67308,Bug,Closed,Major,Fixed,David Horwitz,22-02-2024 22:51,25-07-2024 23:48,23-02-2024 20:10
+Lessons: Reorder item preview modal close button not working,SAK-49776,67303,Bug,Closed,Major,Fixed,Myles Carey,21-02-2024 19:56,10-03-2024 15:50,27-02-2024 11:23
+Lessons: Bulk Edit Subpage button missing ,SAK-49773,67300,Bug,Closed,Major,Fixed,Matthew Jones,21-02-2024 10:45,14-05-2024 18:41,06-05-2024 10:47
+Content: folders not appearing in zip downloads ,SAK-49772,67299,Bug,Closed,Critical,Fixed,Core Team,20-02-2024 04:33,10-03-2024 11:15,28-02-2024 06:37
+Gateway: No indicator which page the user is actually on,SAK-49768,67295,Bug,Closed,Minor,Fixed,kunaljaykam,17-02-2024 09:24,10-05-2024 10:57,22-04-2024 10:45
+"Release Grades does not work consistently across old grader, new grader, upload all",SAK-49766,67293,Bug,Verified,Major,Fixed,Earle Nietzel,16-02-2024 11:44,24-04-2024 07:59,29-02-2024 16:58
+Resources Scrolling issue when selecting from other sites,SAK-49764,67291,Bug,Closed,Major,Fixed,kunaljaykam,16-02-2024 03:25,10-03-2024 10:56,20-02-2024 12:48
+Roster - "Admin" level users can no longer see user photos in the Roster tool,SAK-49762,67289,Bug,Closed,Major,Fixed,Sam Ottenhoff,15-02-2024 16:07,08-03-2024 12:52,21-02-2024 08:05
+Tests & Quizzes: Unable to access test Settings in Serbian,SAK-49761,67288,Bug,Verified,Minor,Fixed,Sam Ottenhoff,15-02-2024 09:06,23-03-2024 15:45,22-03-2024 14:48
+Add extra check so as to never return "UNKNOWN" as the GradeType in a Gradebook,SAK-49760,67287,Bug,Resolved,Blocker,Incorporated,Earle Nietzel,15-02-2024 07:43,18-04-2024 18:27,18-04-2024 18:27
+View As: Uncaught (in promise) ReferenceError: getBrowserFingerprint is not defined console error,SAK-49759,67286,Bug,Closed,Major,Incorporated,Adrian Fish,14-02-2024 18:56,25-03-2024 11:13,20-03-2024 15:00
+Sakai not shutting down due to threads not terminating in MicrosoftMessagingService,SAK-49758,67285,Bug,Resolved,Major,Fixed,Earle Nietzel,14-02-2024 17:10,24-04-2024 07:32,15-02-2024 09:21
+Samigo - NullPointerException uploading attachment from Question Scores page,SAK-49757,67284,Bug,Closed,Major,Fixed,Core Team,13-02-2024 21:17,04-06-2024 18:57,21-03-2024 08:40
+Fix Persistent Tutorial Display Issue: Ensure Tutorial Only Appears for the first time user,SAK-49755,67282,Bug,Verified,Major,Fixed,kunaljaykam,13-02-2024 11:40,06-04-2024 08:34,07-03-2024 10:34
+Turnitin submit queue returns an externalId=0 despite saying it is successful ,SAK-49754,67281,Bug,Closed,Critical,Fixed,Bryan Holladay,13-02-2024 09:30,21-02-2024 08:05,20-02-2024 15:39
+Assignment: Grade Submission does not fit correctly while scrolling,SAK-49752,67279,Bug,Resolved,Minor,Non-Issue,Earle Nietzel,12-02-2024 23:02,15-02-2024 19:48,15-02-2024 19:48
+View As: real user (xxx)  is impersonated with mock user (xxx) with (xxx) being identical,SAK-49747,67274,Bug,Verified,Blocker,Fixed,Sam Ottenhoff,12-02-2024 21:07,08-04-2024 08:33,25-03-2024 14:18
+"View As: When the instructor enters View As student and launches the chat, o.s.p.l.SakaiProxyImpl.ensureUuid User errors fill up the server logs",SAK-49745,67272,Bug,Closed,Major,Fixed,Sam Ottenhoff,12-02-2024 20:24,12-04-2024 12:12,25-03-2024 14:18
+Portal: Prevent tutorial launching for View Site As role,SAK-49742,67269,Bug,Verified,Major,Fixed,Sean Horner,12-02-2024 18:15,07-04-2024 10:44,13-02-2024 11:29
+Enforce no duplicate dependencies in Maven pom.xml,SAK-49739,67266,Bug,Resolved,Major,Fixed,Sam Ottenhoff,12-02-2024 16:02,13-02-2024 19:15,13-02-2024 11:28
+Add JMP mime type,SAK-49736,67263,Bug,Closed,Major,Fixed,Sam Ottenhoff,12-02-2024 12:13,10-03-2024 15:55,12-02-2024 15:54
+Update Apache Common Codec 1.16.1,SAK-49734,67261,Bug,Closed,Major,Fixed,Core Team,12-02-2024 04:33,30-07-2024 12:44,12-02-2024 15:40
+Gateway pages are broken due to bootstrap CSS not loading,SAK-49733,67260,Bug,Closed,Major,Fixed,kunaljaykam,12-02-2024 03:08,25-04-2024 19:21,14-02-2024 11:38
+PUSH SUBSCRIPTION: Data too long for column 'ENDPOINT' at row 1,SAK-49732,67259,Bug,Closed,Blocker,Fixed,Adrian Fish,11-02-2024 20:06,09-04-2024 02:01,27-03-2024 05:24
+Overview: View Site As drop-down missing,SAK-49731,67258,Bug,Verified,Major,Fixed,Matthew Jones,11-02-2024 10:45,29-07-2024 18:39,08-04-2024 11:43
+Further plugin updates from Maven 3.9.2 related to plugin validation,SAK-49730,67257,Bug,Resolved,Major,Fixed,Matthew Jones,10-02-2024 14:48,28-05-2024 17:52,29-02-2024 17:18
+Portal: Organize Pinned no longer works,SAK-49725,67252,Bug,Closed,Critical,Fixed,Sean Horner,07-02-2024 16:51,10-03-2024 15:44,13-02-2024 11:34
+Problem alphabetical order of the student names in the "Section info" tool,SAK-49722,67249,Bug,Closed,Major,Fixed,Victor Gomollon Martos,07-02-2024 07:03,10-03-2024 16:18,15-02-2024 07:48
+Sort attachments by name,SAK-49721,67248,Improvement,Verified,Major,Fixed,Daniel Merino,07-02-2024 06:32,10-03-2024 16:34,08-02-2024 17:21
+Update UnboundID LDAP SDK for Java 6.0.11,SAK-49720,67247,Bug,Closed,Major,Fixed,David Horwitz,06-02-2024 22:41,25-07-2024 23:48,07-02-2024 02:18
+Grader: Retaining comments from previous student,SAK-49718,67245,Bug,Closed,Blocker,Fixed,Adrian Fish,06-02-2024 17:59,17-05-2024 17:59,15-05-2024 11:32
+Scheduled (un)publishing not pinning/removing sites correctly,SAK-49716,67243,Bug,Verified,Critical,Fixed,Sean Horner,06-02-2024 16:12,18-07-2024 18:46,13-02-2024 11:27
+Roster list in Enrollment Status is doubled/duplicated,SAK-49715,67242,Bug,Closed,Major,Fixed,Adrian Fish,06-02-2024 16:03,29-05-2024 02:06,08-02-2024 18:08
+settings gives ugly JavaScript error on Safari (only),SAK-49713,67240,Bug,Resolved,Major,Cannot Reproduce,Adrian Fish,06-02-2024 14:37,06-02-2024 15:34,06-02-2024 15:34
+"change behavior of Reset on Redirect page so that it clears url, but requires a Save to confirm the change",SAK-49712,67239,Bug,Closed,Major,Fixed,Sam Ottenhoff,06-02-2024 12:35,10-03-2024 20:56,09-02-2024 11:02
+Lessons: Unable to add text to subpage,SAK-49710,67237,Bug,Verified,Critical,Fixed,Bernardo Garcia Vila,05-02-2024 11:12,19-02-2024 13:09,19-02-2024 13:08
+Update OpenSearch 1.3.14,SAK-49709,67236,Bug,Closed,Minor,Fixed,David Horwitz,03-02-2024 01:50,25-07-2024 23:47,05-02-2024 11:26
+Calendar embedded in Lessons shows "Invalid Date" for end time for assessments and assignments ,SAK-49708,67235,Bug,Closed,Major,Fixed,Sam Ottenhoff,02-02-2024 13:54,12-03-2024 18:07,12-02-2024 15:54
+Kernel: Impersonation Feature Does Not Apply User Privacy Settings,SAK-49704,67231,Bug,Resolved,Major,Non-Issue,kunaljaykam,31-01-2024 08:03,10-02-2024 13:48,10-02-2024 13:48
+L10N: Translate Sakai to Serbian,SAK-49703,67230,Feature Request,Verified,Major,Fixed,Miguel Pellicer,31-01-2024 06:00,02-04-2024 12:48,12-02-2024 05:41
+Update Apache  httpclient 5.3.1,SAK-49702,67229,Bug,Closed,Major,Fixed,David Horwitz,31-01-2024 00:05,25-07-2024 23:47,31-01-2024 02:58
+Results table is not showing all of the columns data,SAK-49701,67228,Bug,Verified,Blocker,Fixed,kunaljaykam,30-01-2024 21:09,23-02-2024 21:00,08-02-2024 17:18
+Importing an assignment that is linked to the gradebook (externally) is not assigned a gb category after import,SAK-49699,67226,Bug,Resolved,Major,Cannot Reproduce,Earle Nietzel,30-01-2024 12:41,02-02-2024 15:57,02-02-2024 15:57
+Samigo: Deleting group linked to draft asessment creates orphan in database,SAK-49697,67224,Bug,Resolved,Major,Fixed,Andrea Schmidt,30-01-2024 12:05,20-02-2024 11:46,13-02-2024 11:40
+Assignments: Sakai Grader screen unavailable.,SAK-49695,67222,Bug,Verified,Blocker,Fixed,Earle Nietzel,30-01-2024 09:11,14-02-2024 21:11,14-02-2024 21:11
+SakaiProfile webcomponent should only fetch JSON data when needed ,SAK-49690,67217,Bug,Verified,Major,Fixed,Sam Ottenhoff,29-01-2024 12:40,07-04-2024 10:06,01-02-2024 12:16
+View As - Unpublished sites tools are not listed in menu,SAK-49689,67216,Bug,Verified,Major,Fixed,Earle Nietzel,29-01-2024 08:01,21-04-2024 10:21,06-02-2024 10:43
+Overview: Lost content in Customize Site Info Display after an error message,SAK-49688,67215,Bug,Closed,Major,Fixed,kunaljaykam,29-01-2024 07:45,29-04-2024 19:57,26-04-2024 14:01
+Overview: Some text not clear on darkmode in ?manage overview?,SAK-49684,67211,Bug,Verified,Major,Fixed,kunaljaykam,28-01-2024 17:29,18-07-2024 15:35,12-04-2024 10:16
+Syllabus tool > Add > Create Syllabus Items by number of items/dates> Additional options disappear when forgetting to input a title,SAK-49683,67210,Bug,Closed,Critical,Fixed,Andrea Schmidt,26-01-2024 20:13,09-03-2024 10:51,05-02-2024 11:26
+CKeditor in Conversations has no icons,SAK-49679,67206,Bug,Verified,Major,Fixed,Adrian Fish,25-01-2024 14:07,03-04-2024 18:13,29-02-2024 13:38
+CKeditor is missing in Conversations,SAK-49678,67205,Bug,Verified,Blocker,Fixed,Adrian Fish,25-01-2024 13:57,04-04-2024 15:01,01-02-2024 03:22
+Conversations discussion topics are changed to question topics upon import,SAK-49677,67204,Bug,Verified,Major,Fixed,Adrian Fish,25-01-2024 13:50,26-03-2024 18:14,25-03-2024 03:17
+New property to set default site publish behavior,SAK-49676,67203,Feature Request,Closed,Major,Fixed,Core Team,25-01-2024 12:27,29-07-2024 18:42,18-07-2024 09:36
+Tests & Quizzes: Performance issue when loading exam,SAK-49674,67201,Bug,Verified,Major,Fixed,Markus Stetschnig,25-01-2024 07:14,25-01-2024 12:32,25-01-2024 09:14
+Provide permission denied error instead of stacktraces for custom roles in Gradebook,SAK-49672,67199,Bug,Verified,Major,Fixed,Andrea Schmidt,24-01-2024 15:08,09-03-2024 10:45,31-01-2024 09:56
+Antisamy configs should allow tel: links because CKEditor allows them,SAK-49671,67198,Bug,Closed,Major,Fixed,Core Team,24-01-2024 12:41,30-01-2024 19:17,25-01-2024 08:41
+Webcomponents does not compile on Windows,SAK-49669,67196,Bug,Closed,Critical,Fixed,Sam Ottenhoff,24-01-2024 04:15,09-04-2024 10:38,21-03-2024 05:42
+Portal: Uncaught TypeError: Cannot read properties of null (reading 'classList'),SAK-49667,67194,Bug,Resolved,Major,Incorporated,kunaljaykam,23-01-2024 18:09,07-04-2024 09:41,14-03-2024 10:50
+Preferences: Set users default option for Announcement notifications through a property,SAK-49666,67193,Improvement,Resolved,Minor,Fixed,Vicent Alfonso,23-01-2024 04:04,25-01-2024 08:31,24-01-2024 02:59
+SakaiDatePicker does not handle daylight savings time (DST) correctly,SAK-49664,67190,Bug,Closed,Major,Fixed,Sam Ottenhoff,22-01-2024 13:19,06-02-2024 09:48,23-01-2024 12:03
+"LTI: When selecting only Lessons for placements, when an instructor creates a course, the LTI tool is listed under Manage Tools",SAK-49661,67187,Bug,Closed,Critical,Fixed,Charles R Severance,20-01-2024 11:27,09-04-2024 19:41,18-03-2024 12:05
+Update fasterxml: Jackson 2.16.1 & Woodstox 6.6.0,SAK-49660,67186,Bug,Closed,Major,Fixed,David Horwitz,20-01-2024 00:24,25-07-2024 23:47,23-01-2024 17:16
+"Assignments: Grader not displaying files, not switching to multiple files",SAK-49659,67185,Bug,Verified,Blocker,Fixed,Earle Nietzel,19-01-2024 16:07,02-04-2024 22:30,23-01-2024 11:32
+Assignments: Unable to swap between files in Grader,SAK-49658,67184,Bug,Resolved,Blocker,Duplicate,Earle Nietzel,19-01-2024 15:59,24-01-2024 08:04,24-01-2024 03:16
+T&Q: Ability to associate an exam with an existing GB item,SAK-49656,67182,Feature Request,Verified,Critical,Fixed,Miguel Pellicer,19-01-2024 08:39,18-03-2024 03:18,25-01-2024 05:48
+"Rubrics: Popup dialog appear broken, when there are multiple",SAK-49655,67181,Bug,Verified,Major,Fixed,Adrian Fish,19-01-2024 05:40,02-04-2024 21:49,26-01-2024 13:15
+Rubrics: Console error related to reordering when loading the tool,SAK-49654,67180,Bug,Verified,Major,Fixed,Core Team,19-01-2024 05:27,02-04-2024 22:41,23-01-2024 03:36
+Plus: It is no longer possible to edit the site title,SAK-49653,67179,Bug,Resolved,Critical,Incorporated,Charles R Severance,18-01-2024 20:03,23-01-2024 17:38,23-01-2024 17:38
+Set "Custom Page Order" on the !plussite template,SAK-49652,67178,Bug,Closed,Major,Fixed,Charles R Severance,18-01-2024 10:32,06-02-2024 19:48,20-01-2024 09:01
+Tests & Quizzes: Safe exam Browser - Allow input of config key for uploaded SEB config files,SAK-49651,67177,Feature Request,Resolved,Major,Fixed,Markus Stetschnig,18-01-2024 09:48,29-05-2024 02:30,23-01-2024 06:43
+NPE - Page with no tools in SiteHandler.java,SAK-49650,67176,Bug,Closed,Major,Fixed,Charles R Severance,18-01-2024 08:45,26-01-2024 15:53,20-01-2024 08:58
+Assignments - Student's HTML file attachments inaccessible to the teacher,SAK-49649,67175,Bug,Verified,Critical,Fixed,Manu Fuster,18-01-2024 05:53,02-04-2024 22:17,01-03-2024 03:17
+Tests & Quizzes: Safe exam Browser - Timer starts after too early,SAK-49646,67172,Bug,Resolved,Major,Fixed,Markus Stetschnig,17-01-2024 06:29,28-05-2024 17:54,23-01-2024 06:39
+LDAP: Very verbose logs when users are deleted or hidden from LDAP.,SAK-49643,67169,Bug,Closed,Critical,Fixed,Miguel Pellicer,16-01-2024 10:55,25-01-2024 17:48,16-01-2024 12:12
+Tests & Quizzes: Safe exam Browser - Access denied on repeated attempts (with special DB) ,SAK-49642,67168,Bug,Resolved,Major,Fixed,Markus Stetschnig,16-01-2024 08:19,28-05-2024 17:53,16-01-2024 11:16
+Support the Canvas module_meta.xml new_tab feature in Sakai's IMS CC Import,SAK-49641,67167,Bug,Closed,Major,Fixed,Charles R Severance,15-01-2024 23:39,30-07-2024 18:12,26-03-2024 12:31
+Lessons unable to send item to gradebook,SAK-49639,67165,Bug,Closed,Blocker,Incorporated,Core Team,14-01-2024 20:34,25-01-2024 17:30,24-01-2024 18:58
+"Announcements: If any Announcements are set to Highlighted, then editing an existing Announcement will pre-set the ""Highlight"" option to be enabled",SAK-49637,67163,Bug,Resolved,Major,Cannot Reproduce,Core Team,12-01-2024 14:44,29-07-2024 18:58,29-06-2024 17:10
+Sakai Plus Sites Do Not Have the Role Swap Option Available.,SAK-49633,67159,Bug,Closed,Major,Fixed,Charles R Severance,10-01-2024 23:58,06-02-2024 19:48,11-01-2024 11:44
+"""Exit Student View"" not working on other tabs except ""Overview"" tab",SAK-49631,67157,Bug,Verified,Major,Fixed,kunaljaykam,10-01-2024 19:02,08-04-2024 04:43,10-02-2024 13:50
+Hidden site tools are unnavigable as they don't appear in nav,SAK-49630,67156,Bug,Closed,Major,Fixed,Earle Nietzel,10-01-2024 14:11,01-02-2024 16:57,15-01-2024 16:01
+Update frontend-maven-plugin for improved resiliency on downloads,SAK-49628,67154,Bug,Closed,Major,Fixed,Sam Ottenhoff,10-01-2024 12:37,04-04-2024 11:41,10-01-2024 15:40
+Lessons: Deleting comments tool with posted comments creates orphans in database,SAK-49627,67153,Bug,Resolved,Major,Fixed,Core Team,10-01-2024 11:11,21-03-2024 16:12,21-03-2024 16:12
+Update Apache Tomcat  9.0.85,SAK-49626,67152,Bug,Closed,Major,Fixed,David Horwitz,10-01-2024 06:51,25-07-2024 23:47,11-01-2024 11:16
+Test & Quizzes: Sort question text column for question pool items numerically,SAK-49622,67148,Bug,Verified,Minor,Fixed,Markus Stetschnig,09-01-2024 08:12,09-01-2024 13:39,09-01-2024 09:56
+Resolve Dark Mode Display Issue in Gateway Iframes,SAK-49621,67147,Bug,Closed,Major,Fixed,kunaljaykam,09-01-2024 05:38,25-04-2024 19:14,13-03-2024 12:05
+Syllabus: Unable to remove attached files,SAK-49620,67146,Bug,Closed,Critical,Fixed,Core Team,08-01-2024 09:20,19-01-2024 10:20,14-01-2024 11:45
+Update Joda-time 2.12.6,SAK-49619,67145,Bug,Closed,Minor,Fixed,David Horwitz,08-01-2024 01:28,25-07-2024 23:47,09-01-2024 00:18
+LTI Advantage - Improve support for lti_storage_target,SAK-49618,67144,Bug,Closed,Major,Fixed,Charles R Severance,08-01-2024 00:35,09-03-2024 11:02,16-01-2024 22:10
+Dashboard: Highlighted announcements are not highlighted in the Announcements widget,SAK-49617,67143,Bug,Verified,Major,Fixed,Adrian Fish,06-01-2024 15:23,14-04-2024 09:49,12-01-2024 06:32
+Lessons: Title of a Question Item incorrectly displayed,SAK-49615,67141,Bug,Closed,Major,Fixed,kunaljaykam,05-01-2024 06:40,10-03-2024 14:54,12-02-2024 10:48
+Plus: Gradebook improve logging messages for Plus Events,SAK-49612,67138,Bug,Resolved,Major,Fixed,Charles R Severance,03-01-2024 18:35,30-05-2024 19:26,02-04-2024 10:46
+T&Q: Numeric response question regressions,SAK-49611,67137,Bug,Closed,Critical,Fixed,Sean Horner,03-01-2024 16:51,08-02-2024 19:58,11-01-2024 11:29
+Button Manage Overview in "Home",SAK-49610,67136,Improvement,Closed,Major,Fixed,Jes? Alonso Madrid,03-01-2024 05:54,08-04-2024 17:47,24-01-2024 13:14
+Library: templates.js console errors,SAK-49609,67135,Bug,Verified,Minor,Fixed,Miguel Pellicer,02-01-2024 19:01,09-01-2024 13:23,09-01-2024 11:42
+signup does not use portal.cdn.version,SAK-49606,67132,Bug,Closed,Critical,Fixed,Christopher Maurer,31-12-2023 16:26,07-03-2024 15:40,11-01-2024 11:18
+Dashboard: Announcement not filtered on role,SAK-49604,67130,Bug,Verified,Major,Fixed,Adrian Fish,29-12-2023 14:48,03-04-2024 20:24,05-01-2024 12:37
+Long URLs generated by "Link" button have no protocol / Shortened URLs dont work,SAK-49602,67128,Bug,Verified,Major,Fixed,kunaljaykam,29-12-2023 13:41,11-01-2024 15:50,11-01-2024 11:14
+Dashboard: "Edit Task" loses previously entered Text,SAK-49601,67127,Bug,Resolved,Major,Incorporated,Adrian Fish,29-12-2023 13:04,10-01-2024 05:55,10-01-2024 05:55
+Test and quizzes: Redirection goes back to the main page.,SAK-49600,67126,Bug,Resolved,Major,Duplicate,kunaljaykam,29-12-2023 11:39,24-03-2024 14:22,24-03-2024 14:22
+Portal: Focus lost on login fields when the page loads,SAK-49599,67125,Bug,Closed,Critical,Fixed,Markus Stetschnig,29-12-2023 05:31,23-01-2024 18:35,08-01-2024 02:29
+View Site As not working for Unpublished Sites,SAK-49597,67123,Bug,Closed,Major,Fixed,kunaljaykam,22-12-2023 13:29,26-05-2024 20:39,12-01-2024 09:27
+Lessons: Default placeholder not updated in Spanish,SAK-49596,67122,Bug,Closed,Major,Fixed,Miguel Pellicer,22-12-2023 06:36,10-01-2024 02:40,22-12-2023 07:05
+T&Q: Import/Export assessments with parts based on random questions,SAK-49595,67121,Bug,Verified,Major,Fixed,Manu Fuster,21-12-2023 09:55,11-01-2024 07:29,09-01-2024 03:49
+JSF2 Upgrade 2.3.18 -> 2.3.21,SAK-49593,67119,Feature Request,Resolved,Major,Fixed,Miguel Pellicer,21-12-2023 07:00,18-01-2024 01:40,08-01-2024 03:24
+Avoid enter parenthesis from instructors while operating with global variables,SAK-49592,67118,Bug,Verified,Major,Fixed,Jesus Maria Mendez Perez,21-12-2023 05:05,17-01-2024 14:38,09-01-2024 05:48
+T&Q: Show historical changes for questions in question pools,SAK-49591,67117,Feature Request,Verified,Major,Fixed,Manu Fuster,21-12-2023 03:13,10-01-2024 07:32,08-01-2024 08:25
+Address noisy tests in gradebookng tool,SAK-49588,67114,Improvement,Resolved,Major,Fixed,Earle Nietzel,20-12-2023 13:42,03-01-2024 18:43,21-12-2023 02:32
+"Edit task loses ""Text"" of task, ""Description of task""  and ""Due Date"" ",SAK-49587,67113,Bug,Verified,Major,Incorporated,Adrian Fish,19-12-2023 16:32,09-01-2024 14:37,23-12-2023 07:30
+Tasks panel: dark mode issues,SAK-49586,67112,Bug,Verified,Major,Fixed,Adrian Fish,19-12-2023 16:04,03-04-2024 20:15,28-12-2023 06:34
+Add widget: dark mode issues,SAK-49585,67111,Bug,Verified,Major,Fixed,Adrian Fish,19-12-2023 15:50,02-04-2024 18:29,28-12-2023 08:56
+Gradebook grade_type ordinal starts from 0 instead of 1,SAK-49584,67110,Bug,Closed,Major,Fixed,Earle Nietzel,19-12-2023 12:35,29-02-2024 19:15,20-12-2023 10:49
+Remove My Connections from the user's (avatar) drop down menu,SAK-49583,67109,Improvement,Resolved,Major,Incorporated,Earle Nietzel,19-12-2023 12:32,19-12-2023 12:36,19-12-2023 12:33
+Tests & Quizzes: Not all global variables are exported on the xml - S2U-11,SAK-49580,67105,Bug,Resolved,Major,Fixed,Jesus Maria Mendez Perez,18-12-2023 13:40,28-03-2024 03:15,19-12-2023 06:12
+"Portal > Home: logging in causes stacktraces caused by java.util.MissingResourceException: Can't find bundle for base name connection-manager, locale en_US",SAK-49579,67104,Bug,Verified,Major,Fixed,Miguel Pellicer,15-12-2023 17:47,09-01-2024 10:25,18-12-2023 05:04
+Lessons: Embedded PDFs don't use the full width,SAK-49577,67102,Bug,Verified,Critical,Fixed,Miguel Pellicer,15-12-2023 05:46,18-12-2023 03:10,15-12-2023 06:20
+Add better protection for invalid i18n keys,SAK-49576,67101,Bug,Resolved,Major,Fixed,Earle Nietzel,14-12-2023 16:58,02-04-2024 10:07,15-12-2023 09:56
+Sometimes some answers are interchanged when clicking Solution - S2U-10,SAK-49575,67100,Bug,Verified,Major,Fixed,Jesus Maria Mendez Perez,14-12-2023 09:52,08-03-2024 06:52,19-12-2023 06:34
+EmailService: Bind email properties into simple values,SAK-49574,67099,Improvement,Verified,Blocker,Fixed,Manu Fuster,14-12-2023 06:07,02-04-2024 10:07,08-01-2024 02:41
+"Assignments-Sakai Grader: The ability is present in the Sakai Grader to use the curly braces for instructor feedback on inline submissions, but there are no instructions",SAK-49572,67097,Bug,Closed,Blocker,Fixed,Earle Nietzel,13-12-2023 06:44,15-12-2023 17:05,14-12-2023 15:46
+Grader: Cannot load submissions,SAK-49570,67095,Bug,Resolved,Blocker,Duplicate,Earle Nietzel,12-12-2023 09:17,14-12-2023 08:58,13-12-2023 15:24
+Assignments: Problems in navigation when selecting resource from another site,SAK-49569,67094,Bug,Closed,Major,Fixed,Andrea Schmidt,12-12-2023 06:51,10-03-2024 10:56,15-02-2024 11:04
+Plus: o.h.e.j.s.SqlExceptionHelper.logExceptions Duplicate entry for key 'GB_GRADEBOOK_T.UK_ru3o66mhmaf4no3xt2tv4n8e5',SAK-49568,67093,Bug,Closed,Major,Fixed,Charles R Severance,11-12-2023 19:23,09-01-2024 18:28,03-01-2024 18:37
+Include Template sites in list of sites available for Site Import,SAK-49564,67089,Feature Request,Verified,Major,Fixed,Adrian Fish,11-12-2023 12:03,05-02-2024 11:33,02-02-2024 03:04
+Dashboard: Add widget text is unreadable on dark mode,SAK-49561,67086,Bug,Verified,Minor,Incorporated,kunaljaykam,10-12-2023 19:56,29-12-2023 12:22,28-12-2023 13:59
+Lessons: Create a single "Add Learning App" UI to be used across Sakai,SAK-49560,67085,Bug,Resolved,Major,Fixed,Charles R Severance,09-12-2023 14:13,21-07-2024 10:56,08-07-2024 22:44
+Sitestats: Improve presence times after midnight,SAK-49556,67081,Improvement,Verified,Major,Fixed,Miguel Pellicer,07-12-2023 10:56,08-01-2024 08:06,11-12-2023 05:43
+Dropbox: Notifications does not respect groups,SAK-49555,67080,Improvement,Closed,Major,Non-Issue,Miguel Pellicer,07-12-2023 10:31,14-12-2023 09:18,07-12-2023 10:36
+Assignments: Duplicate pager in the grades report,SAK-49554,67079,Improvement,Verified,Major,Fixed,Manu Fuster,07-12-2023 09:05,10-01-2024 07:25,08-01-2024 03:26
+T&Q: Editing a published timed assessment does not inform students,SAK-49553,67078,Bug,Closed,Major,Won't Fix,Miguel Pellicer,07-12-2023 07:18,14-12-2023 09:18,07-12-2023 07:34
+Update Apache httpcore 5.2.3 & httpclient 5.2.3,SAK-49552,67077,Bug,Closed,Major,Fixed,David Horwitz,07-12-2023 06:42,30-05-2024 14:06,07-12-2023 09:08
+T&Q: Escape translation strings in the assessment list,SAK-49551,67076,Bug,Closed,Major,Fixed,Miguel Pellicer,07-12-2023 06:41,16-01-2024 18:51,14-12-2023 05:18
+Gradebook: When an item comes from lessons Rubrics should not be a grading option.,SAK-49550,67075,Bug,Closed,Major,Fixed,Miguel Pellicer,07-12-2023 06:00,25-01-2024 17:29,14-12-2023 05:17
+Library: Upgrade pdf-js from 4.0.189 to 4.0.269,SAK-49549,67074,Bug,Verified,Blocker,Fixed,Miguel Pellicer,07-12-2023 02:44,02-04-2024 22:27,11-01-2024 15:16
+Worksite Setup -> Search should also search the internal site id ,SAK-49548,67073,Bug,Closed,Major,Fixed,Core Team,06-12-2023 16:55,16-01-2024 19:06,05-01-2024 11:07
+Notifications: Announcements released in the future do not have the same formatting as other announcement notifications,SAK-49546,67071,Bug,Closed,Major,Fixed,Core Team,04-12-2023 13:32,16-04-2024 15:12,21-12-2023 10:17
+Assignments: Cannot export submissions to ZIP when the title has square brackets,SAK-49543,67068,Bug,Closed,Major,Fixed,Miguel Pellicer,04-12-2023 05:27,10-01-2024 21:59,06-12-2023 14:27
+T&Q: Publishing an assessment with attachments without access throws an error,SAK-49542,67067,Bug,Closed,Minor,Fixed,Miguel Pellicer,04-12-2023 05:01,16-01-2024 20:51,05-12-2023 02:57
+Update Apache Commons IO 2.15.1,SAK-49541,67066,Bug,Closed,Major,Fixed,David Horwitz,03-12-2023 23:15,25-07-2024 23:40,04-12-2023 05:36
+"Clean up LTI Placements, add Site Navigation Placement (i.e. left nav)",SAK-49540,67065,Bug,Closed,Major,Fixed,Charles R Severance,03-12-2023 16:17,07-07-2024 13:43,16-01-2024 11:43
+Note that the "External Tool" only supports LTI 1.1,SAK-49539,67064,Bug,Closed,Minor,Fixed,Charles R Severance,03-12-2023 16:01,10-12-2023 10:06,04-12-2023 05:37
+Update Apache Log 1.3.0,SAK-49538,67063,Bug,Closed,Major,Fixed,David Horwitz,03-12-2023 07:40,25-07-2024 23:40,04-12-2023 05:38
+Plus site: css for Dashboard needs to be fixed - layout is not correct,SAK-49537,67062,Bug,Closed,Major,Fixed,Charles R Severance,02-12-2023 09:21,11-12-2023 18:52,03-12-2023 14:16
+Tests and Quizzes: Show Feedback Tab Missing in 22.x when selecting "Feedback during exam",SAK-49536,67061,Bug,Resolved,Critical,Incorporated,Core Team,01-12-2023 18:19,02-12-2023 12:31,02-12-2023 12:31
+Forums: Notifications of moderated topics created by moderators,SAK-49535,67060,Bug,Closed,Major,Fixed,Miguel Pellicer,01-12-2023 09:06,27-01-2024 09:25,15-12-2023 02:16
+T&Q: Some assessments cannot be imported when attachments fail to copy,SAK-49534,67059,Bug,Closed,Major,Fixed,Miguel Pellicer,01-12-2023 08:02,30-01-2024 03:18,04-12-2023 02:40
+T&Q: Ability to reshuffle all the parts using random question pools,SAK-49533,67058,Feature Request,Verified,Major,Fixed,Miguel Pellicer,01-12-2023 07:35,12-12-2023 13:21,12-12-2023 08:57
+Polls: Allow instructors to vote infinitely,SAK-49532,67057,Feature Request,Closed,Minor,Won't Do,Miguel Pellicer,01-12-2023 03:52,14-12-2023 09:17,13-12-2023 08:12
+LTI: Debug info displaying when instructor launches any lti tool,SAK-49531,67056,Bug,Closed,Major,Fixed,Charles R Severance,30-11-2023 21:02,05-12-2023 19:13,30-11-2023 23:51
+Plus: membership not updated for removed students on plus site,SAK-49530,67055,Bug,Verified,Blocker,Non-Issue,Charles R Severance,30-11-2023 20:19,02-12-2023 11:53,01-12-2023 11:59
+Site Import doesn't complete after an NPE in AnnouncementsBullhornHandler,SAK-49529,67054,Bug,Closed,Critical,Fixed,Earle Nietzel,30-11-2023 15:43,09-04-2024 18:31,02-12-2023 22:08
+Assignments: Extension submit btn is disabled if instructor used 'Save' as opposed to 'Save and Release to Student',SAK-49527,67052,Bug,Verified,Major,Fixed,Earle Nietzel,30-11-2023 13:14,02-06-2024 12:37,23-03-2024 20:09
+Private Messages: Add a mailto link to the email footer,SAK-49525,67050,Improvement,Verified,Minor,Fixed,Manu Fuster,30-11-2023 09:41,11-01-2024 07:30,09-01-2024 09:18
+Lessons: Cannot set scores with comma in subpages,SAK-49523,67048,Bug,Closed,Critical,Fixed,Miguel Pellicer,30-11-2023 06:38,08-02-2024 03:23,21-12-2023 05:31
+Lessons: NPE when importing lessons from a site,SAK-49522,67047,Bug,Closed,Critical,Won't Fix,Miguel Pellicer,30-11-2023 06:10,14-12-2023 09:17,30-11-2023 06:28
+Content: Add a warning when editing URL resource details,SAK-49521,67046,Improvement,Verified,Minor,Fixed,Miguel Pellicer,30-11-2023 05:40,26-12-2023 16:12,13-12-2023 08:55
+CKEditor: Add FmathEditor plugin to the editor,SAK-49520,67045,Feature Request,Closed,Major,Fixed,Miguel Pellicer,30-11-2023 03:38,06-03-2024 11:14,20-12-2023 03:51
+Accessibility: Address insufficient color contrast issues with text/links on Gateway page,SAK-49519,67044,Bug,Closed,Major,Fixed,kunaljaykam,29-11-2023 08:52,26-04-2024 17:35,08-01-2024 16:36
+WebJars: Upgrade CKEDITOR from 4.21.0 to 4.22.1 (Last update EOL),SAK-49518,67043,Bug,Closed,Critical,Fixed,Miguel Pellicer,29-11-2023 08:50,04-07-2024 16:35,09-01-2024 03:08
+Elfinder: Calculating the folder size in large sites cause severe performance issues,SAK-49515,67040,Bug,Closed,Major,Fixed,Miguel Pellicer,29-11-2023 06:35,05-04-2024 12:15,09-01-2024 09:17
+Assignments: Improve NOTE in the dropdown feedback to multiple students,SAK-49514,67039,Feature Request,Verified,Minor,Fixed,Manu Fuster,29-11-2023 05:57,16-01-2024 14:34,16-01-2024 06:38
+Sections: Restrict switching from manual to externally managed sections to instructors,SAK-49513,67038,Feature Request,Verified,Major,Fixed,Miguel Pellicer,29-11-2023 05:09,08-01-2024 08:01,14-12-2023 07:18
+Lessons: Improve styling when the file cannot be previewed,SAK-49512,67037,Improvement,Closed,Major,Fixed,Miguel Pellicer,29-11-2023 02:58,30-01-2024 09:36,30-11-2023 06:29
+Lessons: Deleting a subpage does not display any confirmation,SAK-49511,67036,Bug,Closed,Critical,Fixed,Miguel Pellicer,29-11-2023 02:51,08-01-2024 14:24,13-12-2023 08:54
+"Content: Cannot download selected ZIP files for sites with comma, colon or semicolon in the title",SAK-49509,67034,Bug,Closed,Critical,Fixed,Miguel Pellicer,28-11-2023 11:15,20-02-2024 05:17,29-11-2023 02:38
+"Content: Cannot download ZIP files for sites with comma, colon or semicolon in the title",SAK-49508,67033,Bug,Closed,Critical,Fixed,Christopher Maurer,28-11-2023 09:52,20-02-2024 04:34,11-01-2024 11:25
+Portal: Cleanup unused connection-manager,SAK-49507,67032,Improvement,Verified,Major,Fixed,Miguel Pellicer,28-11-2023 09:29,19-12-2023 12:36,14-12-2023 02:02
+T&Q Event Log: Events are not localized,SAK-49506,67031,Bug,Closed,Minor,Fixed,Manu Fuster,28-11-2023 07:27,07-05-2024 18:37,09-01-2024 09:18
+Lessons: .anon sites display an error in Oracle,SAK-49505,67030,Bug,Closed,Major,Fixed,Manu Fuster,28-11-2023 06:47,29-01-2024 19:30,09-01-2024 07:12
+Update Apache commons lang 3.14.0,SAK-49504,67029,Bug,Closed,Major,Fixed,David Horwitz,27-11-2023 22:25,05-02-2024 07:24,28-11-2023 01:49
+Plus-samigo-iframe: focus is at the bottom of the iframe instead of the top after adding questions,SAK-49503,67028,Bug,Resolved,Major,Won't Do,Charles R Severance,27-11-2023 20:45,11-06-2024 17:17,11-06-2024 17:17
+"Plus site membership: If a student is set to inactive in the main site, their status does not get updated in the plus site",SAK-49502,67027,Bug,Closed,Major,Fixed,Charles R Severance,27-11-2023 20:26,10-12-2023 10:07,04-12-2023 05:39
+Plus-samigo in iframe console errors: Uncaught DOMException: Permission denied to access property "document" on cross-origin object,SAK-49501,67026,Bug,Resolved,Major,Won't Do,Charles R Severance,27-11-2023 19:31,11-06-2024 17:16,11-06-2024 17:16
+Resources: Detect filetype on Jupyter Notebook,SAK-49498,67023,Bug,Verified,Major,Fixed,Jesus Maria Mendez Perez,24-11-2023 04:17,10-03-2024 10:58,28-11-2023 10:28
+Update Tika Parsers and dependencies,SAK-49497,67022,Bug,Resolved,Major,Incorporated,Jesus Maria Mendez Perez,24-11-2023 03:44,13-02-2024 11:01,13-02-2024 11:00
+Plus: First launch of plus site error - o.s.p.ProviderServlet.doError OIDC KeySet did not contain key id (kid),SAK-49495,67020,Bug,Closed,Blocker,Fixed,Charles R Severance,23-11-2023 09:32,29-11-2023 18:18,28-11-2023 11:11
+Externalize fullCalendar configuration,SAK-49494,67019,Feature Request,Closed,Major,Fixed,Daniel Merino,23-11-2023 07:09,08-03-2024 12:17,05-12-2023 04:49
+T&Q Serving files from ShowMediaServlet with non-ascii characters causes a 500 error,SAK-49490,67014,Bug,Closed,Critical,Fixed,Miguel Pellicer,22-11-2023 06:33,05-12-2023 23:43,28-11-2023 06:03
+Tests & Quizzes: Error on publishing test without viewing settings,SAK-49489,67013,Bug,Closed,Critical,Fixed,Sam Ottenhoff,21-11-2023 16:42,10-03-2024 19:13,08-02-2024 18:07
+Tests & Quizzes: Markup text test error on publish,SAK-49487,67011,Bug,Resolved,Major,Incorporated,Core Team,21-11-2023 16:19,27-11-2023 16:17,27-11-2023 16:17
+Plus: Improve Launch Logic and use Executor Pattern For NRPS Retrieval,SAK-49486,67010,Bug,Closed,Blocker,Fixed,Charles R Severance,21-11-2023 12:11,10-12-2023 10:09,28-11-2023 13:32
+"Plus: (duplicate, the same JIRA was saved twice) Improve Launch and Use Executor Pattern For NRPS Retrieval",SAK-49485,67009,Bug,Closed,Blocker,Duplicate,Charles R Severance,21-11-2023 12:06,30-11-2023 16:34,30-11-2023 16:33
+Autoremoval of folders is not working with the new permissions,SAK-49483,67007,Bug,Closed,Major,Fixed,Daniel Merino,20-11-2023 08:59,19-06-2024 11:59,13-12-2023 03:42
+T&Q: More instructions for calculated questions about decimals,SAK-49482,67006,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,20-11-2023 08:46,22-11-2023 12:19,21-11-2023 02:48
+T&Q: Clearer instructions when the assessment is being edited,SAK-49481,67005,Feature Request,Closed,Minor,Won't Do,Miguel Pellicer,20-11-2023 05:48,10-01-2024 03:10,14-12-2023 04:56
+"T&Q: Report question pool events (Add, copy, move, grant, revoke)",SAK-49480,67004,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,20-11-2023 05:19,08-01-2024 08:01,21-11-2023 02:48
+T&Q: Show a message when loading submissions,SAK-49479,67003,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,20-11-2023 04:58,22-11-2023 12:12,21-11-2023 02:48
+T&Q: Duplicate controls in SAM Lite,SAK-49478,67002,Feature Request,Verified,Minor,Fixed,Manu Fuster,20-11-2023 03:53,10-01-2024 07:25,09-01-2024 07:46
+Update Apache commons compress 1.25.0,SAK-49477,67001,Bug,Closed,Major,Fixed,David Horwitz,17-11-2023 23:48,25-07-2024 23:40,20-11-2023 02:58
+"Plus: When using 2 different servers, on first launch the instructor is sent to ""Home"" on the Plus server",SAK-49476,67000,Bug,Resolved,Blocker,Non-Issue,Charles R Severance,17-11-2023 19:02,21-11-2023 12:57,21-11-2023 12:57
+T&Q Include the editor in the student's rationale (Multiple Choice),SAK-49474,66998,Feature Request,Closed,Minor,Won't Fix,Miguel Pellicer,17-11-2023 07:59,09-01-2024 09:35,09-01-2024 09:35
+Forums: Email notifications are sent from a wrong address,SAK-49473,66997,Bug,Closed,Critical,Fixed,Miguel Pellicer,17-11-2023 06:29,29-11-2023 13:36,20-11-2023 02:21
+T&Q Ability to export the student scores,SAK-49472,66996,Feature Request,Verified,Major,Fixed,Miguel Pellicer,17-11-2023 06:09,13-03-2024 04:34,14-12-2023 05:01
+T&Q Include question text and score when exporting responses,SAK-49471,66995,Feature Request,Verified,Major,Fixed,Miguel Pellicer,17-11-2023 03:53,21-11-2023 10:33,20-11-2023 02:56
+Private Messages: When a new PM is sent report the sendEmail option to the event,SAK-49470,66994,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,17-11-2023 03:05,08-01-2024 08:00,20-11-2023 02:57
+Private Messages: BCC should not display the undisclosed recipients label,SAK-49469,66993,Feature Request,Closed,Minor,Incorporated,Miguel Pellicer,17-11-2023 02:36,14-12-2023 09:16,17-11-2023 04:40
+Plus-Single tool: iframe and new window not resizing as pages change in samigo,SAK-49468,66992,Bug,Closed,Blocker,Fixed,Charles R Severance,16-11-2023 20:46,29-11-2023 18:27,26-11-2023 17:36
+Plus-Single tool launch displays the incorrect page the first time around,SAK-49467,66991,Bug,Resolved,Blocker,Incorporated,Charles R Severance,16-11-2023 20:09,28-11-2023 18:58,21-11-2023 12:55
+T&Q Ability to print the full exam on the same page,SAK-49464,66988,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,16-11-2023 11:21,21-11-2023 00:17,16-11-2023 13:51
+Realms Improve performance in Oracle,SAK-49463,66987,Improvement,Closed,Major,Fixed,Miguel Pellicer,16-11-2023 11:04,05-01-2024 10:02,16-11-2023 13:49
+T&Q Ability to set the rounding decimals when grading,SAK-49462,66986,Feature Request,Closed,Minor,Won't Fix,Miguel Pellicer,16-11-2023 10:58,14-12-2023 09:16,17-11-2023 04:24
+T&Q The event 'sam.assessment.graded.auto' does not contain any info,SAK-49461,66985,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,16-11-2023 10:44,10-01-2024 03:09,17-11-2023 03:42
+T&Q: Rare bug when copying images between questions from question pools,SAK-49460,66984,Bug,Closed,Major,Fixed,Miguel Pellicer,16-11-2023 10:31,29-01-2024 19:27,17-11-2023 02:18
+T&Q: Report an event when an instructor allows assessment retakes,SAK-49459,66983,Feature Request,Verified,Minor,Fixed,Miguel Pellicer,16-11-2023 10:07,08-01-2024 07:59,17-11-2023 02:20
+Restore FontAwesome in Sakai 23 - Also restore the RTE FontAwesome Plug In,SAK-49457,66981,Bug,Resolved,Blocker,Non-Issue,kunaljaykam,16-11-2023 08:55,18-11-2023 11:42,18-11-2023 11:42
+Lessons: Upgrade pdf-js from 2.9.359 to 4.0.189 ,SAK-49456,66980,Bug,Verified,Blocker,Fixed,Miguel Pellicer,16-11-2023 07:30,04-04-2024 06:04,24-12-2023 15:43
+"Plus-samigo, 2 servers, student ends up in plus site after quiz submission with no way to get back to the main site",SAK-49455,66979,Bug,Resolved,Critical,Won't Do,Charles R Severance,15-11-2023 21:43,11-06-2024 17:18,11-06-2024 17:18
+"Plus: Single tool, 2 servers, date picker not available: Uncaught DOMException: Failed to read a named property 'sakai' from 'Window': Blocked a frame with origin ""https://trunk-mysql8.nightly.sakaiproject.org"" from accessing a cross-origin frame.",SAK-49454,66978,Bug,Resolved,Critical,Won't Do,Charles R Severance,15-11-2023 21:23,11-06-2024 17:14,11-06-2024 17:14
+Lessons: Subpage with illegal characters modal freezes,SAK-49453,66977,Bug,Closed,Major,Fixed,Charles R Severance,15-11-2023 12:07,25-11-2023 13:54,15-11-2023 18:22
+Handle Height Setting and Auto Resize in LTI Left Nav Tool,SAK-49451,66975,Bug,Closed,Major,Fixed,Charles R Severance,14-11-2023 06:58,03-12-2023 16:39,14-11-2023 14:06
+Handle Height Setting and Auto Resize in LTI Left Nav Tool,SAK-49450,66974,Bug,Closed,Major,Duplicate,Charles R Severance,14-11-2023 06:54,14-11-2023 07:02,14-11-2023 07:01
+Webcomponents: Build is broken in Master.,SAK-49448,66972,Bug,Verified,Blocker,Fixed,Adrian Fish,14-11-2023 02:13,02-04-2024 10:07,04-12-2023 12:54
+Changing Passwords in Admin is Broken,SAK-49446,66970,Bug,Closed,Blocker,Fixed,Sean Horner,13-11-2023 09:36,25-11-2023 14:09,13-11-2023 15:25
+Grader & Document Viewer: Upgrade pdf.js to use the latest features (4.0.189),SAK-49445,66969,Improvement,Verified,Critical,Fixed,Miguel Pellicer,13-11-2023 08:05,03-04-2024 10:06,14-11-2023 06:54
+Plus: Launching Tests & Quizzes as a single tool - tutorial issue,SAK-49444,66968,Bug,Closed,Blocker,Fixed,Charles R Severance,12-11-2023 11:33,21-11-2023 14:39,13-11-2023 16:24
+"Plus: Single tool launch, portal issues",SAK-49443,66967,Bug,Resolved,Blocker,Won't Do,Charles R Severance,11-11-2023 19:10,16-11-2023 20:13,16-11-2023 19:46
+Gradebook: Keyboard navigation does not reach column headers,SAK-49442,66966,Bug,Closed,Blocker,Fixed,Adrian Fish,11-11-2023 16:15,16-05-2024 17:37,13-05-2024 12:10
+T&Q: Answers not aligned in MC&MS,SAK-49441,66965,Bug,Verified,Major,Fixed,Miguel Pellicer,10-11-2023 05:32,10-03-2024 21:37,13-11-2023 04:46
+Support Bulgarian,SAK-49439,66963,Feature Request,Verified,Major,Fixed,Miguel Pellicer,09-11-2023 11:16,06-12-2023 18:19,14-11-2023 09:29
+Update the Romanian translation,SAK-49438,66962,Feature Request,Verified,Major,Fixed,Miguel Pellicer,09-11-2023 11:15,21-11-2023 00:32,14-11-2023 09:29
+Site Import: Import is 3x slower because how Rubrics are copied in Tests & Quizzes,SAK-49436,66960,Bug,Closed,Critical,Fixed,Miguel Pellicer,09-11-2023 03:30,10-12-2023 10:34,10-11-2023 02:23
+Site Import: Excessive logging when importing sites with T&Q,SAK-49434,66958,Bug,Closed,Major,Fixed,Miguel Pellicer,08-11-2023 08:38,06-12-2023 18:44,09-11-2023 02:04
+Apply lit-analyzer to all of the webcomponents,SAK-49433,66957,Improvement,Verified,Major,Fixed,Adrian Fish,07-11-2023 10:11,02-04-2024 10:07,05-12-2023 02:51
+"Roster: JSON doesn't include email address, and both JSON/roster UI fail to log last time visited or total visits",SAK-49429,66953,Bug,Closed,Major,Fixed,Adrian Fish,06-11-2023 18:00,30-11-2023 17:48,15-11-2023 19:52
+Incorrect sort on Submission Status -> Date,SAK-49428,66952,Bug,Closed,Major,Fixed,Andrea Schmidt,06-11-2023 14:14,03-12-2023 07:05,08-11-2023 10:08
+"Create a sakai-reorderer component, initially for rubrics.",SAK-49427,66951,Bug,Verified,Major,Fixed,Adrian Fish,06-11-2023 13:36,02-04-2024 22:46,13-11-2023 02:53
+Add configuration option to remove labelling on the trinity site list,SAK-49426,66950,Bug,Closed,Major,Fixed,Charles R Severance,05-11-2023 20:18,29-11-2023 13:26,06-11-2023 11:27
+SiteInfo during site creation and after selecting a roster from cm it is not attached,SAK-49424,66948,Bug,Verified,Major,Fixed,Earle Nietzel,03-11-2023 18:11,11-03-2024 18:43,08-11-2023 10:07
+Lessons: Unable to modify content links,SAK-49423,66947,Bug,Verified,Blocker,Fixed,Miguel Pellicer,03-11-2023 18:09,06-11-2023 18:14,06-11-2023 10:31
+Lessons: omitting the title when adding a sub page locks the whole screen,SAK-49422,66946,Bug,Resolved,Major,Cannot Reproduce,Core Team,03-11-2023 17:15,13-02-2024 15:01,13-02-2024 15:01
+Joinable Sets: Display a message when the group is full,SAK-49417,66941,Bug,Resolved,Minor,Fixed,Miguel Pellicer,02-11-2023 08:31,31-05-2024 06:59,02-11-2023 12:21
+Portal: Unpublished "Official" sites display and are pinned for the student (incorrect behavior),SAK-49416,66940,Bug,Verified,Blocker,Incorporated,Sean Horner,01-11-2023 18:48,14-02-2024 19:12,31-01-2024 19:07
+update Apache Commons Text 1.11.0,SAK-49414,66938,Bug,Closed,Major,Fixed,David Horwitz,31-10-2023 05:57,25-07-2024 23:40,31-10-2023 11:49
+Samigo when creating a multiple choice question with answer level feedback RTE will not show,SAK-49412,66936,Bug,Verified,Major,Fixed,Earle Nietzel,27-10-2023 17:29,03-11-2023 18:22,31-10-2023 11:14
+Empty submission preventing 0 grade from getting to gradebook,SAK-49410,66934,Bug,Closed,Major,Fixed,Sam Ottenhoff,26-10-2023 11:03,04-12-2023 23:37,29-10-2023 13:19
+While grading using the assignments grading interface noticed a NumberFormatException,SAK-49409,66933,Bug,Closed,Major,Fixed,Earle Nietzel,26-10-2023 10:31,25-11-2023 14:48,08-11-2023 10:04
+Update Apache Commons IO 2.15.0,SAK-49408,66932,Bug,Closed,Major,Fixed,David Horwitz,26-10-2023 09:03,25-07-2024 23:39,31-10-2023 11:14
+"T&Q: Rubric selections and comments not saved correctly if graded through questions tab, console error: Uncaught RangeError: Maximum call stack size exceeded.",SAK-49406,66930,Bug,Resolved,Blocker,Incorporated,Core Team,25-10-2023 19:21,02-11-2023 19:43,02-11-2023 19:43
+T&Q: NPE when trying to import an xml file to the Question Pool,SAK-49405,66929,Bug,Verified,Blocker,Fixed,Jesus Maria Mendez Perez,25-10-2023 18:21,13-11-2023 17:11,08-11-2023 02:32
+Enhance Log Messages for Improved Turnitin Error Detection,SAK-49403,66927,Improvement,Resolved,Minor,Fixed,Manu Fuster,25-10-2023 03:58,30-10-2023 07:02,26-10-2023 11:20
+Enhance Log Messages for Improved Turnitin Error Detection,TII-276,66926,Improvement,Resolved,Minor,Non-Issue,Manu Fuster,25-10-2023 03:06,25-10-2023 05:15,25-10-2023 03:56
+Assignments-Grader: Console error as soon as the instructor enters a grade - Cannot read properties of undefined (reading 'match'),SAK-49401,66925,Bug,Closed,Major,Fixed,Christopher Maurer,24-10-2023 19:06,14-12-2023 17:41,30-10-2023 10:21
+Improvements in SkinnableCharonPortal class,SAK-49400,66924,Improvement,Verified,Major,Fixed,Earle Nietzel,24-10-2023 10:29,13-02-2024 16:16,28-11-2023 11:50
+Create site from template doesn't display the course name unless the browser window is stretched wide,SAK-49398,66922,Bug,Closed,Major,Fixed,kunaljaykam,23-10-2023 18:31,29-05-2024 01:55,21-03-2024 07:30
+Forums: cannot be cast to class org.sakaiproject.api.app.messageforums.DiscussionTopic,SAK-49396,66920,Bug,Closed,Blocker,Fixed,Miguel Pellicer,23-10-2023 04:11,21-11-2023 13:38,27-10-2023 02:00
+"Announcements: Merged announcements do not appear on user Home tools, Bullhorns",SAK-49391,66915,Bug,Resolved,Critical,Incorporated,kunaljaykam,20-10-2023 11:48,10-01-2024 06:19,10-01-2024 06:19
+"When selecting attachment only in an assignment, the grader still shows ""Inline Submission"" in the gradable area",SAK-49390,66914,Bug,Verified,Major,Fixed,Adrian Fish,20-10-2023 04:37,02-04-2024 22:41,20-10-2023 09:05
+Discussions/Rubrics: Criteria won?t expand in Criteria Summary,SAK-49389,66913,Bug,Closed,Major,Fixed,Christopher Maurer,19-10-2023 17:28,12-03-2024 13:26,06-02-2024 11:25
+Dont fetch /api/users/undefined/grades,SAK-49388,66912,Bug,Closed,Major,Fixed,Adrian Fish,19-10-2023 15:01,23-04-2024 16:41,28-12-2023 11:13
+Gradebook: Grade Rubric option unavailable for hidden item scenarios,SAK-49387,66911,Bug,Closed,Critical,Fixed,Sean Horner,19-10-2023 14:17,08-04-2024 19:11,19-03-2024 12:02
+Assignments: Some chars in assignment title affect download all submissions,SAK-49385,66909,Bug,Closed,Major,Fixed,Miguel Pellicer,19-10-2023 11:57,03-12-2023 07:14,28-11-2023 06:00
+Lessons: Item name on the dialog is missing when adding a Learning app if the option selected is Open in New Window ,SAK-49383,66907,Bug,Closed,Minor,Duplicate,Jesus Maria Mendez Perez,19-10-2023 03:36,19-10-2023 03:49,19-10-2023 03:49
+Missing header Samigo,SAK-49382,66906,Bug,Verified,Major,Fixed,David Horwitz,19-10-2023 01:05,08-03-2024 11:57,19-10-2023 09:54
+T&Q: Numeric response question > Uncaught TypeError: $(...).popover is not a function,SAK-49381,66905,Bug,Closed,Major,Fixed,kunaljaykam,18-10-2023 19:49,23-01-2024 18:56,08-11-2023 10:08
+Tests & Quizzes: View filter needs updated to work with new test status,SAK-49379,66903,Bug,Closed,Major,Fixed,Sam Ottenhoff,18-10-2023 16:14,22-11-2023 13:46,31-10-2023 11:13
+Messages. Error when moving a message to a different folder,SAK-49377,66901,Bug,Closed,Major,Fixed,Jesus Maria Mendez Perez,18-10-2023 07:10,08-11-2023 12:23,19-10-2023 05:13
+Changing default Display Options when "Add Learning App",SAK-49375,66899,Bug,Closed,Minor,Fixed,Jesus Maria Mendez Perez,17-10-2023 08:07,11-06-2024 10:11,19-10-2023 05:51
+Preferences: prefs.css is not found on 24 & 23,SAK-49374,66898,Bug,Closed,Major,Fixed,kunaljaykam,16-10-2023 18:18,02-11-2023 12:49,20-10-2023 09:06
+Create site from template with "Continue with no roster" ends up in stacktrace,SAK-49373,66897,Bug,Closed,Major,Fixed,Andrea Schmidt,16-10-2023 16:08,07-12-2023 19:31,18-10-2023 10:06
+"Assignments-Grader-Rubrics: Adding a comment has the pop-up too far to the right, Done button is cut off",SAK-49370,66894,Bug,Closed,Blocker,Fixed,Adrian Fish,15-10-2023 11:12,24-04-2024 12:57,31-10-2023 10:28
+Assignments: Self-report rubric is displaying options the student shouldn't have,SAK-49367,66891,Bug,Resolved,Major,Duplicate,Miguel Pellicer,13-10-2023 17:38,19-10-2023 11:24,19-10-2023 11:24
+Lessons: Cannot reorder items when some items have null sakaiId,SAK-49364,66888,Bug,Resolved,Blocker,Fixed,Miguel Pellicer,13-10-2023 08:38,22-11-2023 14:34,13-10-2023 11:28
+Update Lombok 1.18.30,SAK-49363,66887,Bug,Closed,Minor,Fixed,David Horwitz,13-10-2023 08:24,25-07-2024 23:39,13-10-2023 08:57
+Update UnboundID LDAP SDK for Java 6.0.10,SAK-49362,66886,Bug,Closed,Major,Fixed,David Horwitz,13-10-2023 08:16,25-07-2024 23:39,13-10-2023 08:56
+When editing Preferences locks are not being cleared,SAK-49358,66882,Bug,Closed,Major,Fixed,Earle Nietzel,11-10-2023 10:47,23-02-2024 21:24,13-10-2023 09:40
+"Gradebook > Grade Release Rules > Points: Highlight color of preview needs to be adjusted, dark mode is unreadable",SAK-49357,66881,Bug,Closed,Major,Fixed,kunaljaykam,10-10-2023 17:38,04-11-2023 09:15,20-10-2023 09:06
+Update Apache Tomcat  9.0.81,SAK-49356,66880,Bug,Closed,Major,Fixed,Core Team,10-10-2023 07:41,25-07-2024 23:39,10-10-2023 09:16
+Samigo: Export pool and clicking Cancel displays a console error - SPNR is not defined,SAK-49354,66878,Bug,Verified,Major,Fixed,Jesus Maria Mendez Perez,09-10-2023 19:03,20-05-2024 11:42,10-10-2023 03:06
+Assignments: New event for student saving peer review,SAK-49352,66876,Improvement,Resolved,Critical,Fixed,Christopher Maurer,09-10-2023 08:52,12-02-2024 16:07,12-02-2024 16:07
+Roster: Parsing a potentially infinite object to JSON,SAK-49350,66874,Bug,Closed,Critical,Fixed,Adrian Fish,09-10-2023 05:06,30-11-2023 17:44,17-10-2023 04:00
+Samigo: Console errors on Event Logs page if there are no quizzes available,SAK-49349,66873,Bug,Verified,Major,Fixed,kunaljaykam,08-10-2023 10:40,15-10-2023 10:18,13-10-2023 11:27
+External Tools (LTI): Add custom icon input too wide,SAK-49346,66870,Bug,Closed,Minor,Fixed,Sharadhi Raghuraj,08-10-2023 08:56,23-07-2024 19:25,09-05-2024 18:22
+LTI: Stacktrace when trying to add a Learning App in Lessons,SAK-49345,66869,Bug,Closed,Blocker,Fixed,Charles R Severance,07-10-2023 11:36,22-06-2024 00:09,17-10-2023 10:59
+Update Apache Commons Net 3.10.0,SAK-49344,66868,Bug,Closed,Major,Fixed,David Horwitz,07-10-2023 01:06,25-07-2024 23:39,09-10-2023 12:19
+Info icon in Worksite Setup tool shows incorrect site information,SAK-49343,66867,Bug,Verified,Major,Fixed,kunaljaykam,06-10-2023 12:42,09-02-2024 09:10,29-10-2023 03:18
+Contrast Issues with Lessons Subpage Button Text,SAK-49342,66866,Bug,Closed,Major,Fixed,kunaljaykam,05-10-2023 16:16,07-11-2023 19:12,02-11-2023 03:46
+NPE viewing dashboard containing announcements merged from site user isn't a member of,SAK-49341,66865,Bug,Closed,Major,Fixed,Andrea Schmidt,05-10-2023 15:22,04-11-2023 11:22,18-10-2023 09:59
+The "Access: exam_name" group is not created in Lessons with prerequisites unless a teacher navigates through the involved Lessons first. The exam remains inaccessible.,SAK-49339,66863,Bug,Closed,Major,Fixed,Vicent Alfonso,05-10-2023 07:07,30-01-2024 19:42,21-12-2023 11:25
+Assignments: Missing cells in peer-review rows in assignment table ,SAK-49338,66862,Bug,Closed,Minor,Fixed,Markus Stetschnig,05-10-2023 06:40,20-10-2023 19:07,09-10-2023 12:42
+User Activity Report incorrectly says student submission read was "Instructor on behalf of",SAK-49335,66859,Bug,Resolved,Major,Duplicate,Earle Nietzel,03-10-2023 17:02,09-10-2023 15:17,09-10-2023 15:17
+Portal: Can not navigate between tools of unpinned site.,SAK-49333,66857,Bug,Closed,Blocker,Fixed,Sean Horner,03-10-2023 04:55,10-11-2023 12:37,18-10-2023 11:48
+Portal: Can not re-pin sites ,SAK-49332,66856,Bug,Closed,Blocker,Fixed,Sean Horner,03-10-2023 04:52,10-11-2023 12:50,18-10-2023 11:45
+"Roster Card game: when clicking to reset the game, students in the pop-up should be students'",SAK-49330,66854,Bug,Verified,Major,Fixed,Adrian Fish,02-10-2023 18:59,04-10-2023 18:05,04-10-2023 06:05
+Update Apache Commons IO 2.14.0,SAK-49327,66851,Bug,Closed,Major,Fixed,David Horwitz,02-10-2023 00:58,25-07-2024 23:38,09-10-2023 12:20
+Dashboard: Edit Dashboard > Image fails on first attempt,SAK-49325,66849,Bug,Verified,Major,Duplicate,Adrian Fish,01-10-2023 09:42,29-12-2023 12:30,02-10-2023 14:17
+Site Info: images/icons should not display in the navigation,SAK-49324,66848,Bug,Resolved,Major,Non-Issue,kunaljaykam,01-10-2023 09:17,06-02-2024 18:52,06-02-2024 18:52
+LTI Assignments: Unable to view submissions when using the arrows to move between students when grading,SAK-49323,66847,Bug,Closed,Critical,Fixed,Charles R Severance,30-09-2023 11:32,19-07-2024 18:27,25-06-2024 10:25
+Update Apache Poi 5.2.4,SAK-49322,66846,Bug,Closed,Major,Fixed,David Horwitz,30-09-2023 08:30,25-07-2024 23:38,09-10-2023 12:42
+Rubrics: Shared draft rubric should have Draft label,SAK-49319,66843,Bug,Verified,Major,Fixed,Christopher Maurer,28-09-2023 17:41,02-04-2024 22:54,13-10-2023 09:58
+Web link does not display correctly in Dark Mode,SAK-49318,66842,Bug,Closed,Major,Fixed,kunaljaykam,28-09-2023 08:21,23-04-2024 19:29,22-03-2024 07:20
+Assignments-Grader: Console error as soon as the instructor enters a grade - Cannot read properties of undefined (reading 'match'),SAK-49316,66840,Bug,Resolved,Major,Incorporated,Earle Nietzel,27-09-2023 18:29,24-10-2023 18:35,19-10-2023 05:02
+AssignmentEntityProvider.getGradableForSite returns an http 500 when encountering invalid attachments,SAK-49315,66839,Bug,Closed,Major,Fixed,Earle Nietzel,27-09-2023 18:21,03-10-2023 10:14,28-09-2023 11:08
+Lessons: 'Require this item' doesn't remain checked on some items completed by the instructor,SAK-49312,66836,Improvement,Closed,Major,Fixed,Vicent Alfonso,27-09-2023 05:30,19-06-2024 12:01,19-12-2023 07:35
+Cannot change / add profile photo,SAK-49311,66835,Bug,Verified,Critical,Fixed,kunaljaykam,26-09-2023 14:53,03-10-2023 10:28,02-10-2023 04:55
+Undefined portal variable not catched propertly in editor,SAK-49309,66833,Bug,Resolved,Critical,Fixed,Daniel Merino,26-09-2023 07:03,25-10-2023 03:33,09-10-2023 12:41
+Grader: Navigating between submissions with student submission is not filtering correctly.,SAK-49308,66832,Bug,Closed,Major,Incorporated,Miguel Pellicer,26-09-2023 06:25,27-09-2023 15:54,27-09-2023 02:46
